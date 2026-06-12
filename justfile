@@ -1,13 +1,8 @@
-venv := ".venv/bin/python"
+preview:
+    quarto preview
 
-install:
-    uv sync
-
-preview: install
-    QUARTO_PYTHON={{venv}} quarto preview
-
-render: install
-    QUARTO_PYTHON={{venv}} quarto render
+render:
+    quarto render
 
 clean:
     rm -rf _site .quarto
