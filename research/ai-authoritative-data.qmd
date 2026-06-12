@@ -1,0 +1,19 @@
+---
+title: "AI with Authoritative Data"
+---
+
+We investigate how Large Language Models and AI systems can be made more reliable and trustworthy when grounded in authoritative knowledge graphs. This addresses core challenges in government data applications, including hallucinations and limited explainability in AI-generated outputs.
+
+## Motivation
+
+...
+
+## Approach
+
+...
+
+## Related Projects
+
+- [LLM Enhancement via Knowledge Graphs](../projects/llm-knowledge-graphs.qmd)
+- [LLM and Knowledge Graph Chatbot](../projects/llm-kg-chatbot.qmd)
+- [AI Information Extraction from Notarial Deeds](../projects/ai-notarial-deeds.qmd)

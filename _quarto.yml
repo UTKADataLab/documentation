@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "UTKa DataLab"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - text: Research
+        menu:
+          - href: research/ai-authoritative-data.qmd
+            text: AI with Authoritative Data
+          - href: research/federated-infrastructure.qmd
+            text: Trusted Federative Data Infrastructures
+      - text: Projects
+        menu:
+          - href: projects/security-privacy-vkg.qmd
+            text: Security & Privacy-Aware VKGs
+          - href: projects/vkg-legacy-systems.qmd
+            text: VKGs for Legacy Systems
+          - href: projects/llm-knowledge-graphs.qmd
+            text: LLM Enhancement via KGs
+          - href: projects/llm-kg-chatbot.qmd
+            text: LLM & KG Chatbot
+          - href: projects/ai-notarial-deeds.qmd
+            text: AI Extraction from Notarial Deeds
+      - href: team.qmd
+        text: Team
+      - href: partners.qmd
+        text: Partners
+    right:
+      - icon: github
+        href: https://github.com/utkadatalab
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-depth: 3
+    highlight-style: github
+
+execute:
+  freeze: auto

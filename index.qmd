@@ -1,0 +1,22 @@
+---
+title: "UTKa DataLab"
+subtitle: "Advancing Federated Data Research"
+---
+
+UTKa DataLab is a joint research initiative between [Kadaster](https://www.kadaster.nl) and the [University of Twente](https://www.utwente.nl), based in Apeldoorn. We develop methods to extract, combine, and analyze information from distributed data sources, with a strong commitment to ethical conduct, scientific integrity, and open science.
+
+## Research Themes
+
+- [AI with Authoritative Data](research/ai-authoritative-data.qmd) — grounding LLMs and AI systems in authoritative knowledge graphs
+- [Trusted Federative Data Infrastructures](research/federated-infrastructure.qmd) — secure, privacy-respecting architectures for cross-system data sharing
+
+## Active Projects
+
+| Project | Type |
+|---|---|
+| [Security and Privacy-Aware Virtual Knowledge Graphs](projects/security-privacy-vkg.qmd) | PhD |
+| [Virtual Knowledge Graphs for Legacy Systems](projects/vkg-legacy-systems.qmd) | EngD |
+| [LLM Enhancement via Knowledge Graphs](projects/llm-knowledge-graphs.qmd) | PhD |
+| [LLM and Knowledge Graph Chatbot](projects/llm-kg-chatbot.qmd) | EngD |
+| [AI Information Extraction from Notarial Deeds](projects/ai-notarial-deeds.qmd) | EngD |
+

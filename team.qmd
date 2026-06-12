@@ -1,0 +1,17 @@
+---
+title: "Team"
+---
+
+Our lab consists of **2 PhD candidates** and **3 Engineering Doctorate (EngD) students**, all supervised jointly by researchers from Kadaster and the University of Twente.
+
+## PhD Candidates
+
+...
+
+## EngD Students
+
+...
+
+## Supervisors
+
+...

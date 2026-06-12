@@ -1,0 +1,37 @@
+name: Build and publish docs
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed for gh-pages deploy
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: quarto-dev/quarto-actions/setup@v2
+
+      - uses: astral-sh/setup-uv@v4
+        with:
+          python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: uv sync
+
+      - name: Render docs
+        run: uv run quarto render
+        env:
+          QUARTO_PYTHON: .venv/bin/python
+
+      # Uncomment to publish to GitHub Pages:
+      # - uses: quarto-dev/quarto-actions/publish@v2
+      #   with:
+      #     target: gh-pages
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,15 @@
+---
+title: "About UTKa DataLab"
+---
+
+UTKa DataLab is a joint initiative between **Kadaster** (the Dutch Land Registry) and the **University of Twente**, aimed at bridging academic research and real-world public data infrastructure. Researchers work under dual supervision from both institutions, combining scientific rigor with practical impact.
+
+The lab consists of **2 PhD candidates** and **3 Engineering Doctorate (EngD) students**.
+
+## Mission
+
+...
+
+## Open Science
+
+...
