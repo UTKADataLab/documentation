@@ -21,193 +21,18 @@
     "text": "University of Twente\nThe University of Twente is a leading technical university with a strong focus on applied research, data science, and responsible AI.\n…"
   },
   {
-    "objectID": "research/federated-infrastructure.html",
-    "href": "research/federated-infrastructure.html",
-    "title": "Trusted Federative Data Infrastructures",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "UTKa DataLab",
     "section": "",
-    "text": "We design secure data-sharing architectures that respect privacy and data sovereignty. Our work centers on Virtual Knowledge Graph (VKG) infrastructures that enable efficient cross-system querying without requiring data replication or centralization."
+    "text": "UTKa DataLab is a joint research initiative between Kadaster and the University of Twente, based in Apeldoorn. We develop methods to extract, combine, and analyze information from distributed data sources, with a strong commitment to ethical conduct, scientific integrity, and open science."
   },
   {
-    "objectID": "research/federated-infrastructure.html#motivation",
-    "href": "research/federated-infrastructure.html#motivation",
-    "title": "Trusted Federative Data Infrastructures",
-    "section": "Motivation",
-    "text": "Motivation\n…"
-  },
-  {
-    "objectID": "research/federated-infrastructure.html#approach",
-    "href": "research/federated-infrastructure.html#approach",
-    "title": "Trusted Federative Data Infrastructures",
-    "section": "Approach",
-    "text": "Approach\n…"
-  },
-  {
-    "objectID": "research/federated-infrastructure.html#related-projects",
-    "href": "research/federated-infrastructure.html#related-projects",
-    "title": "Trusted Federative Data Infrastructures",
-    "section": "Related Projects",
-    "text": "Related Projects\n\nSecurity and Privacy-Aware Virtual Knowledge Graphs\nVirtual Knowledge Graphs for Legacy Systems"
-  },
-  {
-    "objectID": "projects/security-privacy-vkg.html",
-    "href": "projects/security-privacy-vkg.html",
-    "title": "Security and Privacy-Aware Virtual Knowledge Graphs",
-    "section": "",
-    "text": "Modeling privacy policies within graph ontologies and enforcing them technically, including when integrating large language models."
-  },
-  {
-    "objectID": "projects/security-privacy-vkg.html#research-questions",
-    "href": "projects/security-privacy-vkg.html#research-questions",
-    "title": "Security and Privacy-Aware Virtual Knowledge Graphs",
-    "section": "Research Questions",
-    "text": "Research Questions\n…"
-  },
-  {
-    "objectID": "projects/security-privacy-vkg.html#methodology",
-    "href": "projects/security-privacy-vkg.html#methodology",
-    "title": "Security and Privacy-Aware Virtual Knowledge Graphs",
-    "section": "Methodology",
-    "text": "Methodology\n…"
-  },
-  {
-    "objectID": "projects/security-privacy-vkg.html#publications",
-    "href": "projects/security-privacy-vkg.html#publications",
-    "title": "Security and Privacy-Aware Virtual Knowledge Graphs",
-    "section": "Publications",
-    "text": "Publications\n…"
-  },
-  {
-    "objectID": "projects/llm-kg-chatbot.html",
-    "href": "projects/llm-kg-chatbot.html",
-    "title": "LLM and Knowledge Graph Chatbot",
-    "section": "",
-    "text": "Building a conversational interface that combines semantic knowledge graphs with LLM reasoning for intelligent retrieval of land administration data."
-  },
-  {
-    "objectID": "projects/llm-kg-chatbot.html#problem-statement",
-    "href": "projects/llm-kg-chatbot.html#problem-statement",
-    "title": "LLM and Knowledge Graph Chatbot",
-    "section": "Problem Statement",
-    "text": "Problem Statement\n…"
-  },
-  {
-    "objectID": "projects/llm-kg-chatbot.html#design-implementation",
-    "href": "projects/llm-kg-chatbot.html#design-implementation",
-    "title": "LLM and Knowledge Graph Chatbot",
-    "section": "Design & Implementation",
-    "text": "Design & Implementation\n…"
-  },
-  {
-    "objectID": "projects/llm-kg-chatbot.html#results",
-    "href": "projects/llm-kg-chatbot.html#results",
-    "title": "LLM and Knowledge Graph Chatbot",
-    "section": "Results",
-    "text": "Results\n…"
-  },
-  {
-    "objectID": "projects/ai-notarial-deeds.html",
-    "href": "projects/ai-notarial-deeds.html",
-    "title": "AI Information Extraction from Notarial Deeds",
-    "section": "",
-    "text": "Combining AI capabilities with Kadaster quality standards to extract structured information from legal documents with transparency and interpretability."
-  },
-  {
-    "objectID": "projects/ai-notarial-deeds.html#problem-statement",
-    "href": "projects/ai-notarial-deeds.html#problem-statement",
-    "title": "AI Information Extraction from Notarial Deeds",
-    "section": "Problem Statement",
-    "text": "Problem Statement\n…"
-  },
-  {
-    "objectID": "projects/ai-notarial-deeds.html#design-implementation",
-    "href": "projects/ai-notarial-deeds.html#design-implementation",
-    "title": "AI Information Extraction from Notarial Deeds",
-    "section": "Design & Implementation",
-    "text": "Design & Implementation\n…"
-  },
-  {
-    "objectID": "projects/ai-notarial-deeds.html#results",
-    "href": "projects/ai-notarial-deeds.html#results",
-    "title": "AI Information Extraction from Notarial Deeds",
-    "section": "Results",
-    "text": "Results\n…"
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
-    "section": "",
-    "text": "Our lab consists of 2 PhD candidates and 3 Engineering Doctorate (EngD) students, all supervised jointly by researchers from Kadaster and the University of Twente."
-  },
-  {
-    "objectID": "team.html#phd-candidates",
-    "href": "team.html#phd-candidates",
-    "title": "Team",
-    "section": "PhD Candidates",
-    "text": "PhD Candidates\n…"
-  },
-  {
-    "objectID": "team.html#engd-students",
-    "href": "team.html#engd-students",
-    "title": "Team",
-    "section": "EngD Students",
-    "text": "EngD Students\n…"
-  },
-  {
-    "objectID": "team.html#supervisors",
-    "href": "team.html#supervisors",
-    "title": "Team",
-    "section": "Supervisors",
-    "text": "Supervisors\n…"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About UTKa DataLab",
-    "section": "",
-    "text": "UTKa DataLab is a joint initiative between Kadaster (the Dutch Land Registry) and the University of Twente, aimed at bridging academic research and real-world public data infrastructure. Researchers work under dual supervision from both institutions, combining scientific rigor with practical impact.\nThe lab consists of 2 PhD candidates and 3 Engineering Doctorate (EngD) students."
-  },
-  {
-    "objectID": "about.html#mission",
-    "href": "about.html#mission",
-    "title": "About UTKa DataLab",
-    "section": "Mission",
-    "text": "Mission\n…"
-  },
-  {
-    "objectID": "about.html#open-science",
-    "href": "about.html#open-science",
-    "title": "About UTKa DataLab",
-    "section": "Open Science",
-    "text": "Open Science\n…"
-  },
-  {
-    "objectID": "projects/vkg-legacy-systems.html",
-    "href": "projects/vkg-legacy-systems.html",
-    "title": "Virtual Knowledge Graphs for Legacy Systems",
-    "section": "",
-    "text": "Designing infrastructure for cross-system querying of heterogeneous data sources without physical data relocation, evaluated for performance and scalability at Kadaster."
-  },
-  {
-    "objectID": "projects/vkg-legacy-systems.html#problem-statement",
-    "href": "projects/vkg-legacy-systems.html#problem-statement",
-    "title": "Virtual Knowledge Graphs for Legacy Systems",
-    "section": "Problem Statement",
-    "text": "Problem Statement\n…"
-  },
-  {
-    "objectID": "projects/vkg-legacy-systems.html#design-implementation",
-    "href": "projects/vkg-legacy-systems.html#design-implementation",
-    "title": "Virtual Knowledge Graphs for Legacy Systems",
-    "section": "Design & Implementation",
-    "text": "Design & Implementation\n…"
-  },
-  {
-    "objectID": "projects/vkg-legacy-systems.html#results",
-    "href": "projects/vkg-legacy-systems.html#results",
-    "title": "Virtual Knowledge Graphs for Legacy Systems",
-    "section": "Results",
-    "text": "Results\n…"
+    "objectID": "index.html#research-themes",
+    "href": "index.html#research-themes",
+    "title": "UTKa DataLab",
+    "section": "Research Themes",
+    "text": "Research Themes\n\nAI with Authoritative Data — grounding LLMs and AI systems in authoritative knowledge graphs\nTrusted Federative Data Infrastructures — secure, privacy-respecting architectures for cross-system data sharing"
   },
   {
     "objectID": "projects/llm-knowledge-graphs.html",
@@ -238,52 +63,143 @@
     "text": "Publications\n…"
   },
   {
-    "objectID": "research/ai-authoritative-data.html",
-    "href": "research/ai-authoritative-data.html",
-    "title": "AI with Authoritative Data",
+    "objectID": "projects/vkg-legacy-systems.html",
+    "href": "projects/vkg-legacy-systems.html",
+    "title": "Virtual Knowledge Graphs for Legacy Systems",
     "section": "",
-    "text": "We investigate how Large Language Models and AI systems can be made more reliable and trustworthy when grounded in authoritative knowledge graphs. This addresses core challenges in government data applications, including hallucinations and limited explainability in AI-generated outputs."
+    "text": "Designing infrastructure for cross-system querying of heterogeneous data sources without physical data relocation, evaluated for performance and scalability at Kadaster."
   },
   {
-    "objectID": "research/ai-authoritative-data.html#motivation",
-    "href": "research/ai-authoritative-data.html#motivation",
-    "title": "AI with Authoritative Data",
-    "section": "Motivation",
-    "text": "Motivation\n…"
+    "objectID": "projects/vkg-legacy-systems.html#problem-statement",
+    "href": "projects/vkg-legacy-systems.html#problem-statement",
+    "title": "Virtual Knowledge Graphs for Legacy Systems",
+    "section": "Problem Statement",
+    "text": "Problem Statement\n…"
   },
   {
-    "objectID": "research/ai-authoritative-data.html#approach",
-    "href": "research/ai-authoritative-data.html#approach",
-    "title": "AI with Authoritative Data",
-    "section": "Approach",
-    "text": "Approach\n…"
+    "objectID": "projects/vkg-legacy-systems.html#design-implementation",
+    "href": "projects/vkg-legacy-systems.html#design-implementation",
+    "title": "Virtual Knowledge Graphs for Legacy Systems",
+    "section": "Design & Implementation",
+    "text": "Design & Implementation\n…"
   },
   {
-    "objectID": "research/ai-authoritative-data.html#related-projects",
-    "href": "research/ai-authoritative-data.html#related-projects",
-    "title": "AI with Authoritative Data",
-    "section": "Related Projects",
-    "text": "Related Projects\n\nLLM Enhancement via Knowledge Graphs\nLLM and Knowledge Graph Chatbot\nAI Information Extraction from Notarial Deeds"
+    "objectID": "projects/vkg-legacy-systems.html#results",
+    "href": "projects/vkg-legacy-systems.html#results",
+    "title": "Virtual Knowledge Graphs for Legacy Systems",
+    "section": "Results",
+    "text": "Results\n…"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "UTKa DataLab",
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
     "section": "",
-    "text": "UTKa DataLab is a joint research initiative between Kadaster and the University of Twente, based in Apeldoorn. We develop methods to extract, combine, and analyze information from distributed data sources, with a strong commitment to ethical conduct, scientific integrity, and open science."
+    "text": "Our lab consists of 2 PhD candidates and 3 Engineering Doctorate (EngD) students, all supervised jointly by researchers from Kadaster and the University of Twente.\n\nPhD CandidatesEngD StudentsSupervisors\n\n\n\n\nLexi Rowland\nPhD Candidate · University of Twente\nSecurity and privacy-aware virtual knowledge graphs — ontology-based policy enforcement and LLM integration.\na.c.s.j.rowland@utwente.nl Project: Security & Privacy-Aware VKGs\n\n\nAnagha Phaniraj\nPhD Candidate · University of Twente\nImproving LLM pre-training and interpretability using knowledge graphs for land administration domain reasoning.\nanagha.phaniraj@utwente.nl Project: LLM Enhancement via Knowledge Graphs\n\n\n\n\n\n\nSven Mol\nEngineering Doctorate · University of Twente\nVKG infrastructure design, federated querying, and performance evaluation for legacy systems at Kadaster.\ns.mol@utwente.nl Project: VKGs for Legacy Systems\n\n\nLei Wang\nEngineering Doctorate · University of Twente\nKG-enhanced LLM chatbot for natural language access to land administration information.\nlei.wang@utwente.nl Project: LLM & KG Chatbot\n\n\nStefan Bussemaker\nEngineering Doctorate · University of Twente\nTransparent AI system design for automated information extraction from notarial deeds.\ns.bussemaker@utwente.nl Project: AI Extraction from Notarial Deeds\n\n\n\n\nKadaster\n\n\nErwin Folmer\nLector Applied Data Science & AI · HAN Erwin.Folmer@han.nl\n\n\nUniversity of Twente — Geo-Information Processing (GIP)\n\n\nMahdi Farnaghi\nAssistant Professor m.farnaghi@utwente.nl\n\n\nFrank Ostermann\nAssociate Professor f.o.ostermann@utwente.nl\n\n\nRaul Zurita Milla\nFull Professor r.zurita-milla@utwente.nl\n\n\nRob Lemmens\nAssistant Professor r.l.g.lemmens@utwente.nl\n\n\nUniversity of Twente — Semantics, Cybersecurity & Services (SCS)\n\n\nTiago Prince Sales\nAssistant Professor t.princesales@utwente.nl\n\n\nGiancarlo Guizzardi\nFull Professor g.guizzardi@utwente.nl\n\n\nLuiz Bonino da Silva Santos\nAssociate Professor l.o.boninodasilvasantos@utwente.nl\n\n\nThijs van Ede\nAssistant Professor t.s.vanede@utwente.nl"
   },
   {
-    "objectID": "index.html#research-themes",
-    "href": "index.html#research-themes",
-    "title": "UTKa DataLab",
-    "section": "Research Themes",
-    "text": "Research Themes\n\nAI with Authoritative Data — grounding LLMs and AI systems in authoritative knowledge graphs\nTrusted Federative Data Infrastructures — secure, privacy-respecting architectures for cross-system data sharing"
+    "objectID": "projects/ai-notarial-deeds.html",
+    "href": "projects/ai-notarial-deeds.html",
+    "title": "AI Information Extraction from Notarial Deeds",
+    "section": "",
+    "text": "Combining AI capabilities with Kadaster quality standards to extract structured information from legal documents with transparency and interpretability."
   },
   {
-    "objectID": "index.html#active-projects",
-    "href": "index.html#active-projects",
-    "title": "UTKa DataLab",
-    "section": "Active Projects",
-    "text": "Active Projects\n\n\n\nProject\nType\n\n\n\n\nSecurity and Privacy-Aware Virtual Knowledge Graphs\nPhD\n\n\nVirtual Knowledge Graphs for Legacy Systems\nEngD\n\n\nLLM Enhancement via Knowledge Graphs\nPhD\n\n\nLLM and Knowledge Graph Chatbot\nEngD\n\n\nAI Information Extraction from Notarial Deeds\nEngD"
+    "objectID": "projects/ai-notarial-deeds.html#problem-statement",
+    "href": "projects/ai-notarial-deeds.html#problem-statement",
+    "title": "AI Information Extraction from Notarial Deeds",
+    "section": "Problem Statement",
+    "text": "Problem Statement\n…"
+  },
+  {
+    "objectID": "projects/ai-notarial-deeds.html#design-implementation",
+    "href": "projects/ai-notarial-deeds.html#design-implementation",
+    "title": "AI Information Extraction from Notarial Deeds",
+    "section": "Design & Implementation",
+    "text": "Design & Implementation\n…"
+  },
+  {
+    "objectID": "projects/ai-notarial-deeds.html#results",
+    "href": "projects/ai-notarial-deeds.html#results",
+    "title": "AI Information Extraction from Notarial Deeds",
+    "section": "Results",
+    "text": "Results\n…"
+  },
+  {
+    "objectID": "projects/llm-kg-chatbot.html",
+    "href": "projects/llm-kg-chatbot.html",
+    "title": "LLM and Knowledge Graph Chatbot",
+    "section": "",
+    "text": "Building a conversational interface that combines semantic knowledge graphs with LLM reasoning for intelligent retrieval of land administration data."
+  },
+  {
+    "objectID": "projects/llm-kg-chatbot.html#problem-statement",
+    "href": "projects/llm-kg-chatbot.html#problem-statement",
+    "title": "LLM and Knowledge Graph Chatbot",
+    "section": "Problem Statement",
+    "text": "Problem Statement\n…"
+  },
+  {
+    "objectID": "projects/llm-kg-chatbot.html#design-implementation",
+    "href": "projects/llm-kg-chatbot.html#design-implementation",
+    "title": "LLM and Knowledge Graph Chatbot",
+    "section": "Design & Implementation",
+    "text": "Design & Implementation\n…"
+  },
+  {
+    "objectID": "projects/llm-kg-chatbot.html#results",
+    "href": "projects/llm-kg-chatbot.html#results",
+    "title": "LLM and Knowledge Graph Chatbot",
+    "section": "Results",
+    "text": "Results\n…"
+  },
+  {
+    "objectID": "projects/security-privacy-vkg.html",
+    "href": "projects/security-privacy-vkg.html",
+    "title": "Security and Privacy-Aware Virtual Knowledge Graphs",
+    "section": "",
+    "text": "Modeling privacy policies within graph ontologies and enforcing them technically, including when integrating large language models."
+  },
+  {
+    "objectID": "projects/security-privacy-vkg.html#research-questions",
+    "href": "projects/security-privacy-vkg.html#research-questions",
+    "title": "Security and Privacy-Aware Virtual Knowledge Graphs",
+    "section": "Research Questions",
+    "text": "Research Questions\n…"
+  },
+  {
+    "objectID": "projects/security-privacy-vkg.html#methodology",
+    "href": "projects/security-privacy-vkg.html#methodology",
+    "title": "Security and Privacy-Aware Virtual Knowledge Graphs",
+    "section": "Methodology",
+    "text": "Methodology\n…"
+  },
+  {
+    "objectID": "projects/security-privacy-vkg.html#publications",
+    "href": "projects/security-privacy-vkg.html#publications",
+    "title": "Security and Privacy-Aware Virtual Knowledge Graphs",
+    "section": "Publications",
+    "text": "Publications\n…"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "UTKa DataLab’s research is organized around two themes, together spanning five active projects across PhD and EngD tracks."
+  },
+  {
+    "objectID": "research.html#ai-with-authoritative-data",
+    "href": "research.html#ai-with-authoritative-data",
+    "title": "Research",
+    "section": "AI with Authoritative Data",
+    "text": "AI with Authoritative Data\nWe investigate how Large Language Models and AI systems can be made more reliable and trustworthy when grounded in authoritative knowledge graphs. This addresses core challenges in government data applications, including hallucinations and limited explainability in AI-generated outputs. A key example of such a government knowledge graph is the Kadaster Knowledge Graph (Ronzhin et al. 2019).\n\nMotivation\n…\n\n\nApproach\n…\n\n\nProjects\n\n\nLLM Enhancement via Knowledge Graphs\nPhD · Anagha Phaniraj\nImproving LLM pre-training and interpretability using knowledge graphs for land administration domain reasoning.\n\n\nLLM & KG Chatbot\nEngD · Lei Wang\nKG-enhanced LLM chatbot for natural language access to land administration information.\n\n\nAI Extraction from Notarial Deeds\nEngD · Stefan Bussemaker\nTransparent AI system design for automated information extraction from notarial deeds."
+  },
+  {
+    "objectID": "research.html#trusted-federative-data-infrastructures",
+    "href": "research.html#trusted-federative-data-infrastructures",
+    "title": "Research",
+    "section": "Trusted Federative Data Infrastructures",
+    "text": "Trusted Federative Data Infrastructures\nWe design secure data-sharing architectures that respect privacy and data sovereignty. Our work centers on Virtual Knowledge Graph (VKG) infrastructures that enable efficient cross-system querying without requiring data replication or centralization.\n\nMotivation\n…\n\n\nApproach\n…\n\n\nProjects\n\n\nSecurity & Privacy-Aware VKGs\nPhD · Lexi Rowland\nOntology-based security and privacy policy enforcement and LLM integration for virtual knowledge graphs.\n\n\nVKGs for Legacy Systems\nEngD · Sven Mol\nVKG infrastructure design, federated querying, and performance evaluation for legacy systems at Kadaster."
   }
 ]
