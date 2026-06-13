@@ -7,16 +7,6 @@ UTKa DataLab is a joint research initiative between [Kadaster](https://www.kadas
 
 ## Research Themes
 
-- [AI with Authoritative Data](research/ai-authoritative-data.qmd) — grounding LLMs and AI systems in authoritative knowledge graphs
-- [Trusted Federative Data Infrastructures](research/federated-infrastructure.qmd) — secure, privacy-respecting architectures for cross-system data sharing
-
-## Active Projects
-
-| Project | Type |
-|---|---|
-| [Security and Privacy-Aware Virtual Knowledge Graphs](projects/security-privacy-vkg.qmd) | PhD |
-| [Virtual Knowledge Graphs for Legacy Systems](projects/vkg-legacy-systems.qmd) | EngD |
-| [LLM Enhancement via Knowledge Graphs](projects/llm-knowledge-graphs.qmd) | PhD |
-| [LLM and Knowledge Graph Chatbot](projects/llm-kg-chatbot.qmd) | EngD |
-| [AI Information Extraction from Notarial Deeds](projects/ai-notarial-deeds.qmd) | EngD |
+- [AI with Authoritative Data](research.qmd#ai-with-authoritative-data) — grounding LLMs and AI systems in authoritative knowledge graphs
+- [Trusted Federative Data Infrastructures](research.qmd#trusted-federative-data-infrastructures) — secure, privacy-respecting architectures for cross-system data sharing
 

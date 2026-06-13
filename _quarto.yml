@@ -8,14 +8,8 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: about.qmd
-        text: About
-      - text: Research
-        menu:
-          - href: research/ai-authoritative-data.qmd
-            text: AI with Authoritative Data
-          - href: research/federated-infrastructure.qmd
-            text: Trusted Federative Data Infrastructures
+      - href: research.qmd
+        text: Research
       - text: Projects
         menu:
           - href: projects/security-privacy-vkg.qmd
