@@ -1,0 +1,16 @@
+/*-- scss:defaults --*/
+
+$navbar-bg: #1f2328;       // UT dark
+$navbar-fg: #ffffff;
+$primary:   #458094;       // Kadaster teal
+$link-color: #458094;
+
+/*-- scss:rules --*/
+
+h1, h2, h3 {
+  color: #1f2328;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
