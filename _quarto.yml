@@ -4,6 +4,7 @@ project:
 
 website:
   title: "UTKa DataLab"
+  llms-txt: true
   navbar:
     left:
       - href: index.qmd
