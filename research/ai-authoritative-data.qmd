@@ -2,7 +2,7 @@
 title: "AI with Authoritative Data"
 ---
 
-We investigate how Large Language Models and AI systems can be made more reliable and trustworthy when grounded in authoritative knowledge graphs. This addresses core challenges in government data applications, including hallucinations and limited explainability in AI-generated outputs.
+We investigate how Large Language Models and AI systems can be made more reliable and trustworthy when grounded in authoritative knowledge graphs. This addresses core challenges in government data applications, including hallucinations and limited explainability in AI-generated outputs. A key example of such a government knowledge graph is the Kadaster Knowledge Graph [@ronzhin2019kadaster].
 
 ## Motivation
 
