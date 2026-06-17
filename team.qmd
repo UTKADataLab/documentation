@@ -6,40 +6,75 @@ Our lab consists of **2 PhD candidates** and **3 Engineering Doctorate (EngD) st
 
 ## Researchers
 
-#### Lexi Rowland [✉](mailto:a.c.s.j.rowland@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png){height=16}](https://orcid.org/0000-0002-2339-6357)
+:::: {.researcher-card}
+::: {.researcher-photo}
+![](assets/profile_photos/lexi.jpg)
+:::
+::: {.researcher-info}
+#### Alexandra (Lexi) Rowland [✉](mailto:a.c.s.j.rowland@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png){height=16}](https://orcid.org/0000-0002-2339-6357)
 **PhD Candidate** · University of Twente
 
 Security and privacy-aware virtual knowledge graphs — ontology-based policy enforcement and LLM integration.
 
 [Project: Security & Privacy-Aware VKGs](research.qmd#security-privacy-vkg)
+:::
+::::
 
+:::: {.researcher-card}
+::: {.researcher-photo}
+![](assets/profile_photos/anagha.jpg)
+:::
+::: {.researcher-info}
 #### Anagha Phaniraj [✉](mailto:anagha.phaniraj@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png){height=16}](https://orcid.org/0009-0009-5918-3140)
 **PhD Candidate** · University of Twente
 
 Improving LLM pre-training and interpretability using knowledge graphs for land administration domain reasoning.
 
 [Project: LLM Enhancement via Knowledge Graphs](research.qmd#llm-knowledge-graphs)
+:::
+::::
 
+:::: {.researcher-card}
+::: {.researcher-photo}
+![](assets/profile_photos/sven.jpg)
+:::
+::: {.researcher-info}
 #### Sven Mol [✉](mailto:s.mol@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png){height=16}](https://orcid.org/0009-0000-7557-8067)
 **Engineering Doctorate** · University of Twente
 
 VKG infrastructure design, federated querying, and performance evaluation for legacy systems at Kadaster.
 
 [Project: VKGs for Legacy Systems](research.qmd#vkg-legacy-systems)
+:::
+::::
 
-#### Lei Wang [✉](mailto:lei.wang@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png){height=16}](https://orcid.org/0009-0004-3464-5533)
+:::: {.researcher-card}
+::: {.researcher-photo}
+![](assets/profile_photos/charlotte.jpg)
+:::
+::: {.researcher-info}
+#### Lei (Charlotte) Wang [✉](mailto:lei.wang@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png){height=16}](https://orcid.org/0009-0004-3464-5533)
 **Engineering Doctorate** · University of Twente
 
 KG-enhanced LLM chatbot for natural language access to land administration information.
 
 [Project: LLM & KG Chatbot](research.qmd#llm-kg-chatbot)
+:::
+::::
 
+:::: {.researcher-card}
+::: {.researcher-photo}
+![](assets/profile_photos/stefan.jpg)
+:::
+::: {.researcher-info}
 #### Stefan Bussemaker [✉](mailto:s.bussemaker@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png){height=16}](https://orcid.org/0009-0006-3726-0748)
 **Engineering Doctorate** · University of Twente
 
 Transparent AI system design for automated information extraction from notarial deeds.
 
 [Project: AI Extraction from Notarial Deeds](research.qmd#ai-notarial-deeds)
+:::
+::::
 
 ---
 

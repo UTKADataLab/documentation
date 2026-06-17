@@ -104,6 +104,38 @@ a[href^="mailto"] {
   }
 }
 
+.researcher-card {
+  display: flex;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin-bottom: 2rem;
+
+  .researcher-photo {
+    flex-shrink: 0;
+
+    img {
+      width: 110px;
+      height: 110px;
+      object-fit: cover;
+      border-radius: 50%;
+      border: 3px solid #e9f4f7;
+    }
+  }
+
+  .researcher-info {
+    flex: 1;
+
+    h4 {
+      margin-top: 0;
+      margin-bottom: 0.25rem;
+    }
+
+    p {
+      margin-bottom: 0.4rem;
+    }
+  }
+}
+
 .pdf-viewer {
   width: 100%;
   height: 85vh;
