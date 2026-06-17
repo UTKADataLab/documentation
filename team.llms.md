@@ -2,90 +2,90 @@
 
 Our lab consists of **2 PhD candidates** and **3 Engineering Doctorate (EngD) students**, all supervised jointly by researchers from Kadaster and the University of Twente.
 
-## PhD Candidates
+## Researchers
 
-#### Lexi Rowland
+#### Lexi Rowland [✉](mailto:a.c.s.j.rowland@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2339-6357)
 
 **PhD Candidate** · University of Twente
 
 Security and privacy-aware virtual knowledge graphs — ontology-based policy enforcement and LLM integration.
 
-<a.c.s.j.rowland@utwente.nl> [Project: Security & Privacy-Aware VKGs](projects/security-privacy-vkg.llms.md)
+[Project: Security & Privacy-Aware VKGs](research.llms.md#security-privacy-vkg)
 
-#### Anagha Phaniraj
+#### Anagha Phaniraj [✉](mailto:anagha.phaniraj@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0009-5918-3140)
 
 **PhD Candidate** · University of Twente
 
 Improving LLM pre-training and interpretability using knowledge graphs for land administration domain reasoning.
 
-<anagha.phaniraj@utwente.nl> [Project: LLM Enhancement via Knowledge Graphs](projects/llm-knowledge-graphs.llms.md)
+[Project: LLM Enhancement via Knowledge Graphs](research.llms.md#llm-knowledge-graphs)
 
-## EngD Students
-
-#### Sven Mol
+#### Sven Mol [✉](mailto:s.mol@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0000-7557-8067)
 
 **Engineering Doctorate** · University of Twente
 
 VKG infrastructure design, federated querying, and performance evaluation for legacy systems at Kadaster.
 
-<s.mol@utwente.nl> [Project: VKGs for Legacy Systems](projects/vkg-legacy-systems.llms.md)
+[Project: VKGs for Legacy Systems](research.llms.md#vkg-legacy-systems)
 
-#### Lei Wang
+#### Lei Wang [✉](mailto:lei.wang@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0004-3464-5533)
 
 **Engineering Doctorate** · University of Twente
 
 KG-enhanced LLM chatbot for natural language access to land administration information.
 
-<lei.wang@utwente.nl> [Project: LLM & KG Chatbot](projects/llm-kg-chatbot.llms.md)
+[Project: LLM & KG Chatbot](research.llms.md#llm-kg-chatbot)
 
-#### Stefan Bussemaker
+#### Stefan Bussemaker [✉](mailto:s.bussemaker@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0006-3726-0748)
 
 **Engineering Doctorate** · University of Twente
 
 Transparent AI system design for automated information extraction from notarial deeds.
 
-<s.bussemaker@utwente.nl> [Project: AI Extraction from Notarial Deeds](projects/ai-notarial-deeds.llms.md)
+[Project: AI Extraction from Notarial Deeds](research.llms.md#ai-notarial-deeds)
+
+------------------------------------------------------------------------
 
 ## Supervisors
 
 **Kadaster**
 
-#### Erwin Folmer
+#### Erwin Folmer [✉](mailto:Erwin.Folmer@han.nl)
 
-**Lector** Applied Data Science & AI · HAN <Erwin.Folmer@han.nl>
+Lector Applied Data Science & AI · HAN
 
 **University of Twente — Geo-Information Processing (GIP)**
 
-#### Mahdi Farnaghi
+#### Mahdi Farnaghi [✉](mailto:m.farnaghi@utwente.nl)
 
-**Assistant Professor** <m.farnaghi@utwente.nl>
+Assistant Professor
 
-#### Frank Ostermann
+#### Frank Ostermann [✉](mailto:f.o.ostermann@utwente.nl)
 
-**Associate Professor** <f.o.ostermann@utwente.nl>
+Associate Professor
 
-#### Raul Zurita Milla
+#### Raul Zurita Milla [✉](mailto:r.zurita-milla@utwente.nl)
 
-**Full Professor** <r.zurita-milla@utwente.nl>
+Full Professor
 
-#### Rob Lemmens
+#### Rob Lemmens [✉](mailto:r.l.g.lemmens@utwente.nl)
 
-**Assistant Professor** <r.l.g.lemmens@utwente.nl>
+Assistant Professor
 
 **University of Twente — Semantics, Cybersecurity & Services (SCS)**
 
-#### Tiago Prince Sales
+#### Tiago Prince Sales [✉](mailto:t.princesales@utwente.nl)
 
-**Assistant Professor** <t.princesales@utwente.nl>
+Assistant Professor
 
-#### Giancarlo Guizzardi
+#### Giancarlo Guizzardi [✉](mailto:g.guizzardi@utwente.nl)
 
-**Full Professor** <g.guizzardi@utwente.nl>
+Full Professor
 
-#### Luiz Bonino da Silva Santos
+#### Luiz Bonino da Silva Santos [✉](mailto:l.o.boninodasilvasantos@utwente.nl)
 
-**Associate Professor** <l.o.boninodasilvasantos@utwente.nl>
+Associate Professor
 
-#### Thijs van Ede
+#### Thijs van Ede [✉](mailto:t.s.vanede@utwente.nl)
 
-**Assistant Professor** <t.s.vanede@utwente.nl>
+Assistant Professor

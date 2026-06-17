@@ -14,25 +14,59 @@ We investigate how Large Language Models and AI systems can be made more reliabl
 
 …
 
-### Projects
-
-#### [LLM Enhancement via Knowledge Graphs](projects/llm-knowledge-graphs.llms.md)
+### LLM Enhancement via Knowledge Graphs
 
 **PhD** · Anagha Phaniraj
 
-Improving LLM pre-training and interpretability using knowledge graphs for land administration domain reasoning.
+Grounding language models in the Kadaster Knowledge Graph to improve reasoning, reliability, and interpretability for land administration use cases.
 
-#### [LLM & KG Chatbot](projects/llm-kg-chatbot.llms.md)
+#### Research Questions
+
+…
+
+#### Methodology
+
+…
+
+#### Publications
+
+…
+
+### LLM & KG Chatbot
 
 **EngD** · Lei Wang
 
-KG-enhanced LLM chatbot for natural language access to land administration information.
+Building a conversational interface that combines semantic knowledge graphs with LLM reasoning for intelligent retrieval of land administration data.
 
-#### [AI Extraction from Notarial Deeds](projects/ai-notarial-deeds.llms.md)
+#### Problem Statement
+
+…
+
+#### Design & Implementation
+
+…
+
+#### Results
+
+…
+
+### AI Extraction from Notarial Deeds
 
 **EngD** · Stefan Bussemaker
 
-Transparent AI system design for automated information extraction from notarial deeds.
+Combining AI capabilities with Kadaster quality standards to extract structured information from legal documents with transparency and interpretability.
+
+#### Problem Statement
+
+…
+
+#### Design & Implementation
+
+…
+
+#### Results
+
+…
 
 ------------------------------------------------------------------------
 
@@ -48,19 +82,41 @@ We design secure data-sharing architectures that respect privacy and data sovere
 
 …
 
-### Projects
-
-#### [Security & Privacy-Aware VKGs](projects/security-privacy-vkg.llms.md)
+### Security & Privacy-Aware VKGs
 
 **PhD** · Lexi Rowland
 
-Ontology-based security and privacy policy enforcement and LLM integration for virtual knowledge graphs.
+Modeling privacy policies within graph ontologies and enforcing them technically, including when integrating large language models.
 
-#### [VKGs for Legacy Systems](projects/vkg-legacy-systems.llms.md)
+#### Research Questions
+
+…
+
+#### Methodology
+
+…
+
+#### Publications
+
+…
+
+### VKGs for Legacy Systems
 
 **EngD** · Sven Mol
 
-VKG infrastructure design, federated querying, and performance evaluation for legacy systems at Kadaster.
+Designing infrastructure for cross-system querying of heterogeneous data sources without physical data relocation, evaluated for performance and scalability at Kadaster.
+
+#### Problem Statement
+
+…
+
+#### Design & Implementation
+
+…
+
+#### Results
+
+…
 
 ## References
 

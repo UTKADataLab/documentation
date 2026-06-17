@@ -1,26 +1,5 @@
 [
   {
-    "objectID": "partners.html",
-    "href": "partners.html",
-    "title": "Partners",
-    "section": "",
-    "text": "Kadaster is the Dutch Land Registry and Mapping Agency — the authoritative source for geographic and property data in the Netherlands.\n…"
-  },
-  {
-    "objectID": "partners.html#kadaster",
-    "href": "partners.html#kadaster",
-    "title": "Partners",
-    "section": "",
-    "text": "Kadaster is the Dutch Land Registry and Mapping Agency — the authoritative source for geographic and property data in the Netherlands.\n…"
-  },
-  {
-    "objectID": "partners.html#university-of-twente",
-    "href": "partners.html#university-of-twente",
-    "title": "Partners",
-    "section": "University of Twente",
-    "text": "University of Twente\nThe University of Twente is a leading technical university with a strong focus on applied research, data science, and responsible AI.\n…"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "UTKa DataLab",
@@ -91,11 +70,53 @@
     "text": "Results\n…"
   },
   {
+    "objectID": "works.html",
+    "href": "works.html",
+    "title": "Works",
+    "section": "",
+    "text": "This page collects completed outputs from UTKa DataLab — conference papers, technical reports, and other deliverables produced by our researchers."
+  },
+  {
+    "objectID": "works.html#publications",
+    "href": "works.html#publications",
+    "title": "Works",
+    "section": "Publications",
+    "text": "Publications\n\n\n\n\nConference paper Under Review\n\nA Federated Knowledge Graph Architecture for Dutch Cadastral Data\n\n\nEDOC 2026\n\nProposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets.\n\n\nView →\n\n\n\n\n\n\nConference paper Under Review\n\nWho Lives Where?\n\n\nEDOC Forum 2026\n\nInvestigates how authoritative residential registration data can be queried and reasoned over in a knowledge graph setting, with a focus on data quality and federated access.\n\n\nView →"
+  },
+  {
+    "objectID": "works/federated-kg-cadastral.html",
+    "href": "works/federated-kg-cadastral.html",
+    "title": "A Federated Knowledge Graph Architecture for Dutch Cadastral Data",
+    "section": "",
+    "text": "← Back to Works\n\nKadaster · University of Twente\n\n\nProposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets. The architecture leverages ontology-based data access (OBDA) principles and SPARQL federation to connect heterogeneous land registration systems in a privacy-respecting manner.\n\n\n\n\n\n\n\nUse your browser’s built-in controls to zoom, scroll, or download the PDF.\n\n\n\n\n&lt;p&gt;\nYour browser does not support embedded PDFs. &lt;a href=\"../papers/A%20Federated%20Knowledge%20Graph%20Architecture%20for%20Dutch%20Cadastral%20Data.pdf\"&gt;Download the PDF&lt;/a&gt; to view it.\n&lt;/p&gt;"
+  },
+  {
+    "objectID": "works/who-lives-where.html",
+    "href": "works/who-lives-where.html",
+    "title": "Who Lives Where?",
+    "section": "",
+    "text": "← Back to Works\n\nEDOC Forum 2026 · Kadaster · University of Twente\n\n\nInvestigates how authoritative residential registration data can be queried and reasoned over in a knowledge graph setting, with a focus on data quality and federated access. The paper explores challenges in representing uncertain or historical address linkages and presents an approach grounded in the Dutch basic registration infrastructure (BRP/BAG).\n\n\n\n\n\n\n\nUse your browser’s built-in controls to zoom, scroll, or download the PDF.\n\n\n\n\n&lt;p&gt;\nYour browser does not support embedded PDFs. &lt;a href=\"../papers/Who_Lives_Where___EDOC_Forum_2026.pdf\"&gt;Download the PDF&lt;/a&gt; to view it.\n&lt;/p&gt;"
+  },
+  {
     "objectID": "team.html",
     "href": "team.html",
     "title": "Team",
     "section": "",
-    "text": "Our lab consists of 2 PhD candidates and 3 Engineering Doctorate (EngD) students, all supervised jointly by researchers from Kadaster and the University of Twente.\n\nPhD CandidatesEngD StudentsSupervisors\n\n\n\n\nLexi Rowland\nPhD Candidate · University of Twente\nSecurity and privacy-aware virtual knowledge graphs — ontology-based policy enforcement and LLM integration.\na.c.s.j.rowland@utwente.nl Project: Security & Privacy-Aware VKGs\n\n\nAnagha Phaniraj\nPhD Candidate · University of Twente\nImproving LLM pre-training and interpretability using knowledge graphs for land administration domain reasoning.\nanagha.phaniraj@utwente.nl Project: LLM Enhancement via Knowledge Graphs\n\n\n\n\n\n\nSven Mol\nEngineering Doctorate · University of Twente\nVKG infrastructure design, federated querying, and performance evaluation for legacy systems at Kadaster.\ns.mol@utwente.nl Project: VKGs for Legacy Systems\n\n\nLei Wang\nEngineering Doctorate · University of Twente\nKG-enhanced LLM chatbot for natural language access to land administration information.\nlei.wang@utwente.nl Project: LLM & KG Chatbot\n\n\nStefan Bussemaker\nEngineering Doctorate · University of Twente\nTransparent AI system design for automated information extraction from notarial deeds.\ns.bussemaker@utwente.nl Project: AI Extraction from Notarial Deeds\n\n\n\n\nKadaster\n\n\nErwin Folmer\nLector Applied Data Science & AI · HAN Erwin.Folmer@han.nl\n\n\nUniversity of Twente — Geo-Information Processing (GIP)\n\n\nMahdi Farnaghi\nAssistant Professor m.farnaghi@utwente.nl\n\n\nFrank Ostermann\nAssociate Professor f.o.ostermann@utwente.nl\n\n\nRaul Zurita Milla\nFull Professor r.zurita-milla@utwente.nl\n\n\nRob Lemmens\nAssistant Professor r.l.g.lemmens@utwente.nl\n\n\nUniversity of Twente — Semantics, Cybersecurity & Services (SCS)\n\n\nTiago Prince Sales\nAssistant Professor t.princesales@utwente.nl\n\n\nGiancarlo Guizzardi\nFull Professor g.guizzardi@utwente.nl\n\n\nLuiz Bonino da Silva Santos\nAssociate Professor l.o.boninodasilvasantos@utwente.nl\n\n\nThijs van Ede\nAssistant Professor t.s.vanede@utwente.nl"
+    "text": "Our lab consists of 2 PhD candidates and 3 Engineering Doctorate (EngD) students, all supervised jointly by researchers from Kadaster and the University of Twente."
+  },
+  {
+    "objectID": "team.html#researchers",
+    "href": "team.html#researchers",
+    "title": "Team",
+    "section": "Researchers",
+    "text": "Researchers\n\nLexi Rowland ✉ \nPhD Candidate · University of Twente\nSecurity and privacy-aware virtual knowledge graphs — ontology-based policy enforcement and LLM integration.\nProject: Security & Privacy-Aware VKGs\n\n\nAnagha Phaniraj ✉ \nPhD Candidate · University of Twente\nImproving LLM pre-training and interpretability using knowledge graphs for land administration domain reasoning.\nProject: LLM Enhancement via Knowledge Graphs\n\n\nSven Mol ✉ \nEngineering Doctorate · University of Twente\nVKG infrastructure design, federated querying, and performance evaluation for legacy systems at Kadaster.\nProject: VKGs for Legacy Systems\n\n\nLei Wang ✉ \nEngineering Doctorate · University of Twente\nKG-enhanced LLM chatbot for natural language access to land administration information.\nProject: LLM & KG Chatbot\n\n\nStefan Bussemaker ✉ \nEngineering Doctorate · University of Twente\nTransparent AI system design for automated information extraction from notarial deeds.\nProject: AI Extraction from Notarial Deeds"
+  },
+  {
+    "objectID": "team.html#supervisors",
+    "href": "team.html#supervisors",
+    "title": "Team",
+    "section": "Supervisors",
+    "text": "Supervisors\nKadaster\n\nErwin Folmer ✉\nLector Applied Data Science & AI · HAN\nUniversity of Twente — Geo-Information Processing (GIP)\n\n\nMahdi Farnaghi ✉\nAssistant Professor\n\n\nFrank Ostermann ✉\nAssociate Professor\n\n\nRaul Zurita Milla ✉\nFull Professor\n\n\nRob Lemmens ✉\nAssistant Professor\nUniversity of Twente — Semantics, Cybersecurity & Services (SCS)\n\n\nTiago Prince Sales ✉\nAssistant Professor\n\n\nGiancarlo Guizzardi ✉\nFull Professor\n\n\nLuiz Bonino da Silva Santos ✉\nAssociate Professor\n\n\nThijs van Ede ✉\nAssistant Professor"
   },
   {
     "objectID": "projects/ai-notarial-deeds.html",
@@ -193,13 +214,13 @@
     "href": "research.html#ai-with-authoritative-data",
     "title": "Research",
     "section": "AI with Authoritative Data",
-    "text": "AI with Authoritative Data\nWe investigate how Large Language Models and AI systems can be made more reliable and trustworthy when grounded in authoritative knowledge graphs. This addresses core challenges in government data applications, including hallucinations and limited explainability in AI-generated outputs. A key example of such a government knowledge graph is the Kadaster Knowledge Graph (Ronzhin et al. 2019).\n\nMotivation\n…\n\n\nApproach\n…\n\n\nProjects\n\n\nLLM Enhancement via Knowledge Graphs\nPhD · Anagha Phaniraj\nImproving LLM pre-training and interpretability using knowledge graphs for land administration domain reasoning.\n\n\nLLM & KG Chatbot\nEngD · Lei Wang\nKG-enhanced LLM chatbot for natural language access to land administration information.\n\n\nAI Extraction from Notarial Deeds\nEngD · Stefan Bussemaker\nTransparent AI system design for automated information extraction from notarial deeds."
+    "text": "AI with Authoritative Data\nWe investigate how Large Language Models and AI systems can be made more reliable and trustworthy when grounded in authoritative knowledge graphs. This addresses core challenges in government data applications, including hallucinations and limited explainability in AI-generated outputs. A key example of such a government knowledge graph is the Kadaster Knowledge Graph (Ronzhin et al. 2019).\n\nMotivation\n…\n\n\nApproach\n…\n\n\nLLM Enhancement via Knowledge Graphs\nPhD · Anagha Phaniraj\nGrounding language models in the Kadaster Knowledge Graph to improve reasoning, reliability, and interpretability for land administration use cases.\n\nResearch Questions\n…\n\n\nMethodology\n…\n\n\nPublications\n…\n\n\n\nLLM & KG Chatbot\nEngD · Lei Wang\nBuilding a conversational interface that combines semantic knowledge graphs with LLM reasoning for intelligent retrieval of land administration data.\n\nProblem Statement\n…\n\n\nDesign & Implementation\n…\n\n\nResults\n…\n\n\n\nAI Extraction from Notarial Deeds\nEngD · Stefan Bussemaker\nCombining AI capabilities with Kadaster quality standards to extract structured information from legal documents with transparency and interpretability.\n\nProblem Statement\n…\n\n\nDesign & Implementation\n…\n\n\nResults\n…"
   },
   {
     "objectID": "research.html#trusted-federative-data-infrastructures",
     "href": "research.html#trusted-federative-data-infrastructures",
     "title": "Research",
     "section": "Trusted Federative Data Infrastructures",
-    "text": "Trusted Federative Data Infrastructures\nWe design secure data-sharing architectures that respect privacy and data sovereignty. Our work centers on Virtual Knowledge Graph (VKG) infrastructures that enable efficient cross-system querying without requiring data replication or centralization.\n\nMotivation\n…\n\n\nApproach\n…\n\n\nProjects\n\n\nSecurity & Privacy-Aware VKGs\nPhD · Lexi Rowland\nOntology-based security and privacy policy enforcement and LLM integration for virtual knowledge graphs.\n\n\nVKGs for Legacy Systems\nEngD · Sven Mol\nVKG infrastructure design, federated querying, and performance evaluation for legacy systems at Kadaster."
+    "text": "Trusted Federative Data Infrastructures\nWe design secure data-sharing architectures that respect privacy and data sovereignty. Our work centers on Virtual Knowledge Graph (VKG) infrastructures that enable efficient cross-system querying without requiring data replication or centralization.\n\nMotivation\n…\n\n\nApproach\n…\n\n\nSecurity & Privacy-Aware VKGs\nPhD · Lexi Rowland\nModeling privacy policies within graph ontologies and enforcing them technically, including when integrating large language models.\n\nResearch Questions\n…\n\n\nMethodology\n…\n\n\nPublications\n…\n\n\n\nVKGs for Legacy Systems\nEngD · Sven Mol\nDesigning infrastructure for cross-system querying of heterogeneous data sources without physical data relocation, evaluated for performance and scalability at Kadaster.\n\nProblem Statement\n…\n\n\nDesign & Implementation\n…\n\n\nResults\n…"
   }
 ]
