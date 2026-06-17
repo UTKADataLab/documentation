@@ -6,7 +6,7 @@ Our lab consists of **2 PhD candidates** and **3 Engineering Doctorate (EngD) st
 
 ![](assets/profile_photos/lexi.jpg)
 
-#### Alexandra (Lexi) Rowland [✉](mailto:a.c.s.j.rowland@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2339-6357)
+#### Lexi (Alexandra) Rowland [✉](mailto:a.c.s.j.rowland@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2339-6357)
 
 **PhD Candidate** · University of Twente
 
@@ -36,7 +36,7 @@ VKG infrastructure design, federated querying, and performance evaluation for le
 
 ![](assets/profile_photos/charlotte.jpg)
 
-#### Lei (Charlotte) Wang [✉](mailto:lei.wang@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0004-3464-5533)
+#### Charlotte (Lei) Wang [✉](mailto:lei.wang@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0004-3464-5533)
 
 **Engineering Doctorate** · University of Twente
 
