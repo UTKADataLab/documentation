@@ -1,0 +1,59 @@
+---
+title: "Works"
+subtitle: "Publications, reports, and deliverables from UTKa DataLab"
+toc: false
+---
+
+This page collects completed outputs from UTKa DataLab — conference papers, technical reports, and other deliverables produced by our researchers.
+
+## Publications
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.work-card}
+::: {.work-card-body}
+[Conference paper]{.badge-type}
+[Under Review]{.badge-type}
+
+::: {.work-card-title}
+[A Federated Knowledge Graph Architecture for Dutch Cadastral Data](works/federated-kg-cadastral.qmd)
+:::
+
+::: {.work-card-meta}
+EDOC 2026
+:::
+
+Proposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets.
+:::
+
+::: {.work-card-footer}
+[View →](works/federated-kg-cadastral.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.work-card}
+::: {.work-card-body}
+[Conference paper]{.badge-type}
+[Under Review]{.badge-type}
+
+::: {.work-card-title}
+[Who Lives Where?](works/who-lives-where.qmd)
+:::
+
+::: {.work-card-meta}
+EDOC Forum 2026
+:::
+
+Investigates how authoritative residential registration data can be queried and reasoned over in a knowledge graph setting, with a focus on data quality and federated access.
+:::
+
+::: {.work-card-footer}
+[View →](works/who-lives-where.qmd){.btn .btn-outline-primary .btn-sm}
+:::
+:::
+:::
+
+:::

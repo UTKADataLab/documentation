@@ -1,28 +1,19 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - papers/
+    - assets/
 
 website:
   title: "UTKa DataLab"
   llms-txt: true
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: research.qmd
         text: Research
-      - text: Projects
-        menu:
-          - href: projects/security-privacy-vkg.qmd
-            text: Security & Privacy-Aware VKGs
-          - href: projects/vkg-legacy-systems.qmd
-            text: VKGs for Legacy Systems
-          - href: projects/llm-knowledge-graphs.qmd
-            text: LLM Enhancement via KGs
-          - href: projects/llm-kg-chatbot.qmd
-            text: LLM & KG Chatbot
-          - href: projects/ai-notarial-deeds.qmd
-            text: AI Extraction from Notarial Deeds
+      - href: works.qmd
+        text: Works
       - href: team.qmd
         text: Team
       - href: partners.qmd

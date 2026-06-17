@@ -1,0 +1,29 @@
+---
+title: "A Federated Knowledge Graph Architecture for Dutch Cadastral Data"
+subtitle: "Conference Paper"
+toc: false
+---
+
+[← Back to Works](../works.qmd)
+
+::: {.work-card-meta}
+Kadaster · University of Twente
+:::
+
+---
+
+Proposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets. The architecture leverages ontology-based data access (OBDA) principles and SPARQL federation to connect heterogeneous land registration systems in a privacy-respecting manner.
+
+---
+
+::: {.callout-note appearance="minimal"}
+Use your browser's built-in controls to zoom, scroll, or download the PDF.
+:::
+
+<iframe
+  class="pdf-viewer"
+  src="../papers/A%20Federated%20Knowledge%20Graph%20Architecture%20for%20Dutch%20Cadastral%20Data.pdf"
+  title="A Federated Knowledge Graph Architecture for Dutch Cadastral Data">
+  <p>Your browser does not support embedded PDFs.
+  <a href="../papers/A%20Federated%20Knowledge%20Graph%20Architecture%20for%20Dutch%20Cadastral%20Data.pdf">Download the PDF</a> to view it.</p>
+</iframe>

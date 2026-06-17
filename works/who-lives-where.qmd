@@ -1,0 +1,29 @@
+---
+title: "Who Lives Where?"
+subtitle: "EDOC Forum 2026"
+toc: false
+---
+
+[← Back to Works](../works.qmd)
+
+::: {.work-card-meta}
+EDOC Forum 2026 · Kadaster · University of Twente
+:::
+
+---
+
+Investigates how authoritative residential registration data can be queried and reasoned over in a knowledge graph setting, with a focus on data quality and federated access. The paper explores challenges in representing uncertain or historical address linkages and presents an approach grounded in the Dutch basic registration infrastructure (BRP/BAG).
+
+---
+
+::: {.callout-note appearance="minimal"}
+Use your browser's built-in controls to zoom, scroll, or download the PDF.
+:::
+
+<iframe
+  class="pdf-viewer"
+  src="../papers/Who_Lives_Where___EDOC_Forum_2026.pdf"
+  title="Who Lives Where?">
+  <p>Your browser does not support embedded PDFs.
+  <a href="../papers/Who_Lives_Where___EDOC_Forum_2026.pdf">Download the PDF</a> to view it.</p>
+</iframe>
