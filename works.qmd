@@ -8,28 +8,69 @@ This page collects completed outputs from UTKa DataLab — conference papers, te
 
 ## Publications
 
-::: {.grid}
+### 2026
 
-::: {.g-col-12 .g-col-md-6}
-::: {.work-card}
-::: {.work-card-body}
-[Conference paper]{.badge-type}
+::: {.pub}
+[What Secrets Are: Toward a Formal Ontology of Secrecy](https://doi.org/10.1007/978-3-032-40795-5_10){.pub-title}
 
-::: {.work-card-title}
-[A Federated Knowledge Graph Architecture for Dutch Cadastral Data](works/federated-kg-cadastral.qmd)
+[Alexandra Rowland, Glenda Moura Amaral, Giancarlo Guizzardi, Tiago Prince Sales, Rob Lemmens]{.pub-authors}
+
+[In: *Conceptual Modeling — ER 2026*, Lecture Notes in Computer Science, pp. 165–181, Springer, 2026.]{.pub-venue}
+
+::: {.pub-links}
+[DOI](https://doi.org/10.1007/978-3-032-40795-5_10){.btn .btn-outline-primary .btn-sm}
+[Abstract](#abs-rowland2026secrets){.btn .btn-outline-primary .btn-sm data-bs-toggle="collapse" role="button" aria-expanded="false"}
+[BibTeX](#bib-rowland2026secrets){.btn .btn-outline-primary .btn-sm data-bs-toggle="collapse" role="button" aria-expanded="false"}
 :::
 
-::: {.work-card-meta}
-EDOC 2026
+::: {#abs-rowland2026secrets .collapse .pub-detail}
+Access control, privacy engineering, and confidentiality frameworks are fundamentally concerned with managing who knows what and depend on the ability to reason about the active maintenance of ignorance, yet none provides a formal ontological account of the social-intentional phenomenon that underpins them. Without this, these systems can specify the normative surface of concealment without being able to reason about the beliefs, goals, and commitments that constitute and sustain it. This gap is addressed by taking a social-intentional approach and modelling secrecy not as an epistemic state but as an actively produced and maintained condition grounded in the intentional and social structure of the agents involved. This paper presents a formal ontology of secrecy grounded in the Unified Foundational Ontology (UFO) and specified in OntoUML, supporting interoperability with existing ontologies for trust, value, risk, and prevention. The secret is modelled as a social-intentional relator constituted by a Consequential Belief, or the agent’s goal-grounded assessment of the risk that revelation poses, and a commitment to maintaining nescience, situated within a trust structure derived from ONTrust and a risk and prevention structure grounded in COVER. The resulting ontology distinguishes Secret Owners, Holders, and Keepers; models weak and strong trust as grounding different levels of normative obligation; and characterises secret-keeping as a distributed preventive structure in which every Keeper contributes an antidote to the collective risk of revelation. The result is a reusable ontological module that fills a foundational gap in information systems design by providing the intentional structure that existing frameworks implicitly depend on but do not themselves supply.
 :::
 
-Proposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets.
+::: {#bib-rowland2026secrets .collapse .pub-detail}
+```bibtex
+@inproceedings{rowland2026secrets,
+  title     = {What Secrets Are: Toward a Formal Ontology of Secrecy},
+  author    = {Rowland, Alexandra and Amaral, Glenda Moura and Guizzardi, Giancarlo and Prince Sales, Tiago and Lemmens, Rob},
+  booktitle = {Conceptual Modeling -- 45th International Conference, ER 2026},
+  series    = {Lecture Notes in Computer Science},
+  pages     = {165--181},
+  publisher = {Springer Nature Switzerland},
+  year      = {2026},
+  doi       = {10.1007/978-3-032-40795-5_10}
+}
+```
+:::
 :::
 
-::: {.work-card-footer}
-[View →](works/federated-kg-cadastral.qmd){.btn .btn-outline-primary .btn-sm}
-:::
-:::
+::: {.pub}
+[A Federated Knowledge Graph Architecture for Dutch Cadastral Data](https://link.springer.com/book/9783032428998){.pub-title}
+
+[Stefan Bussemaker, Alexandra Rowland, Lei Wang, Sven Mol, João Luiz Rebelo Moreira]{.pub-authors}
+
+[In: *EDOC 2026*, Enschede, The Netherlands, 2026. Proceedings forthcoming.]{.pub-venue}
+
+<!-- TODO: replace the proceedings link with the chapter DOI and add pages to the BibTeX -->
+
+::: {.pub-links}
+[Proceedings](https://link.springer.com/book/9783032428998){.btn .btn-outline-primary .btn-sm}
+[Abstract](#abs-bussemaker2026federated){.btn .btn-outline-primary .btn-sm data-bs-toggle="collapse" role="button" aria-expanded="false"}
+[BibTeX](#bib-bussemaker2026federated){.btn .btn-outline-primary .btn-sm data-bs-toggle="collapse" role="button" aria-expanded="false"}
 :::
 
+::: {#abs-bussemaker2026federated .collapse .pub-detail}
+Kadaster, the Dutch National Land Registry and Mapping Agency, has been actively publishing their base registries as linked (open) spatial data for several years. To date, a number of these base registers as well as a number of external datasets, have been successfully published as linked data and are publicly available in the form of the Kadaster Knowledge Graph (KKG). While the KKG provides a unified query interface across heterogeneous datasets, its centralised batch architecture produces stale data, imposes fragile pipeline maintenance, and requires copying third-party data into Kadaster's infrastructure, creating duplication and governance overhead. This paper proposes a federated architecture in which Kadaster and its partner organisations each expose their data through a Model Context Protocol (MCP) server, and a centralised AI assistant orchestrates queries across these endpoints at runtime using tool calling. The proposed architecture eliminates the extract, transform, load (ETL) pipeline and triple store, keeps data current at its authoritative source, and enables natural language querying over the combined data landscape. We designed the architecture using ArchiMate and validated it through a proof-of-concept implementation. We discuss the limitations of this approach and discuss possible remedies.
+:::
+
+::: {#bib-bussemaker2026federated .collapse .pub-detail}
+```bibtex
+@inproceedings{bussemaker2026federated,
+  title     = {A Federated Knowledge Graph Architecture for Dutch Cadastral Data},
+  author    = {Bussemaker, Stefan and Rowland, Alexandra and Wang, Lei and Mol, Sven and Rebelo Moreira, Jo{\~a}o Luiz},
+  booktitle = {EDOC 2026},
+  year      = {2026},
+  note      = {Accepted, to appear}
+}
+```
+:::
 :::

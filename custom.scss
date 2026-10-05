@@ -20,59 +20,42 @@ a[href^="mailto"] {
   text-decoration: none;
 }
 
-.work-card {
-  border: 1px solid #dee2e6;
-  border-radius: 8px;
-  padding: 1.25rem 1.5rem;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  transition: box-shadow 0.15s ease;
+.pub {
+  padding: 1rem 0;
+  border-bottom: 1px solid #dee2e6;
 
-  &:hover {
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  p {
+    margin-bottom: 0.2rem;
   }
 
-  .work-card-body {
-    flex: 1;
-  }
-
-  .work-card-title {
-    font-size: 1.05rem;
+  .pub-title {
     font-weight: 600;
-    margin-top: 0.25rem;
-    margin-bottom: 0.5rem;
+    font-size: 1.05rem;
+    color: #1f2328;
+    text-decoration: none;
 
-    a {
-      color: #1f2328;
-      text-decoration: none;
-
-      &:hover {
-        color: $primary;
-      }
+    &:hover {
+      color: $primary;
     }
   }
 
-  .work-card-meta {
-    font-size: 0.825rem;
+  .pub-venue {
+    font-size: 0.9rem;
     color: #6c757d;
-    margin-bottom: 0.75rem;
   }
 
-  .work-card-footer {
-    margin-top: 1rem;
+  .pub-links p {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 0.6rem;
+    margin-bottom: 0;
   }
-}
 
-.badge-type {
-  display: inline-block;
-  padding: 0.2em 0.65em;
-  font-size: 0.75rem;
-  font-weight: 600;
-  border-radius: 4px;
-  background: #e9f4f7;
-  color: $primary;
-  letter-spacing: 0.02em;
+  .pub-detail {
+    margin-top: 0.75rem;
+    font-size: 0.9rem;
+  }
 }
 
 .partners-grid {
@@ -134,12 +117,4 @@ a[href^="mailto"] {
       margin-bottom: 0.4rem;
     }
   }
-}
-
-.pdf-viewer {
-  width: 100%;
-  height: 85vh;
-  min-height: 600px;
-  border: 1px solid #dee2e6;
-  border-radius: 4px;
 }
