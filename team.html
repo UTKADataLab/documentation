@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.38">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -39,10 +42,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-de63f62b328812d8e578a4d74e282472.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-bb62276ab45c84d9efd712f51ff97b5a.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-55a03a132f1e687a97769f304d0b406d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-6e3f01e363418215567817b901520f07.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -91,10 +94,6 @@ ul.task-list li input[type="checkbox"] {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
-<span class="menu-text">Research</span></a>
-  </li>  
   <li class="nav-item">
     <a class="nav-link" href="./works.html"> 
 <span class="menu-text">Works</span></a>
@@ -157,7 +156,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Our lab consists of <strong>2 PhD candidates</strong> and <strong>3 Engineering Doctorate (EngD) students</strong>, all supervised jointly by researchers from Kadaster and the University of Twente.</p>
+<p>Our lab consists of <strong>2 PhD candidates</strong> and <strong>2 Engineering Doctorate (EngD) students</strong>, all supervised jointly by researchers from Kadaster and the University of Twente.</p>
 <section id="researchers" class="level2">
 <h2 class="anchored" data-anchor-id="researchers">Researchers</h2>
 <div class="researcher-card">
@@ -168,7 +167,6 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="lexi-alexandra-rowland-orcid">Lexi (Alexandra) Rowland <a href="mailto:a.c.s.j.rowland@utwente.nl">✉</a> <a href="https://orcid.org/0000-0002-2339-6357"><img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" height="16" alt="ORCID"></a></h4>
 <p><strong>PhD Candidate</strong> · University of Twente</p>
 <p>Security and privacy-aware virtual knowledge graphs — ontology-based policy enforcement and LLM integration.</p>
-<p><a href="./research.html#security-privacy-vkg">Project: Security &amp; Privacy-Aware VKGs</a></p>
 </section>
 </div>
 <div class="researcher-card">
@@ -179,18 +177,6 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="anagha-phaniraj-orcid">Anagha Phaniraj <a href="mailto:anagha.phaniraj@utwente.nl">✉</a> <a href="https://orcid.org/0009-0009-5918-3140"><img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" height="16" alt="ORCID"></a></h4>
 <p><strong>PhD Candidate</strong> · University of Twente</p>
 <p>Improving LLM pre-training and interpretability using knowledge graphs for land administration domain reasoning.</p>
-<p><a href="./research.html#llm-knowledge-graphs">Project: LLM Enhancement via Knowledge Graphs</a></p>
-</section>
-</div>
-<div class="researcher-card">
-<div class="researcher-photo">
-<p><img src="assets/profile_photos/sven.jpg" class="img-fluid"></p>
-</div>
-<section id="sven-mol-orcid" class="level4 researcher-info">
-<h4 class="anchored" data-anchor-id="sven-mol-orcid">Sven Mol <a href="mailto:s.mol@utwente.nl">✉</a> <a href="https://orcid.org/0009-0000-7557-8067"><img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" height="16" alt="ORCID"></a></h4>
-<p><strong>Engineering Doctorate</strong> · University of Twente</p>
-<p>VKG infrastructure design, federated querying, and performance evaluation for legacy systems at Kadaster.</p>
-<p><a href="./research.html#vkg-legacy-systems">Project: VKGs for Legacy Systems</a></p>
 </section>
 </div>
 <div class="researcher-card">
@@ -201,7 +187,6 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="charlotte-lei-wang-orcid">Charlotte (Lei) Wang <a href="mailto:lei.wang@utwente.nl">✉</a> <a href="https://orcid.org/0009-0004-3464-5533"><img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" height="16" alt="ORCID"></a></h4>
 <p><strong>Engineering Doctorate</strong> · University of Twente</p>
 <p>KG-enhanced LLM chatbot for natural language access to land administration information.</p>
-<p><a href="./research.html#llm-kg-chatbot">Project: LLM &amp; KG Chatbot</a></p>
 </section>
 </div>
 <div class="researcher-card">
@@ -212,7 +197,6 @@ ul.task-list li input[type="checkbox"] {
 <h4 class="anchored" data-anchor-id="stefan-bussemaker-orcid">Stefan Bussemaker <a href="mailto:s.bussemaker@utwente.nl">✉</a> <a href="https://orcid.org/0009-0006-3726-0748"><img src="https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png" height="16" alt="ORCID"></a></h4>
 <p><strong>Engineering Doctorate</strong> · University of Twente</p>
 <p>Transparent AI system design for automated information extraction from notarial deeds.</p>
-<p><a href="./research.html#ai-notarial-deeds">Project: AI Extraction from Notarial Deeds</a></p>
 </section>
 </div>
 <hr>

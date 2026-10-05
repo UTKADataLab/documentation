@@ -18,10 +18,10 @@ Proposes a federated virtual knowledge graph architecture that enables interoper
 
 Conference paper Under Review
 
-[Who Lives Where?](works/who-lives-where.llms.md)
+[Who Lives Where?](works/who-lives-where.qmd)
 
 EDOC Forum 2026
 
 Investigates how authoritative residential registration data can be queried and reasoned over in a knowledge graph setting, with a focus on data quality and federated access.
 
-[View →](works/who-lives-where.llms.md)
+[View →](works/who-lives-where.qmd)

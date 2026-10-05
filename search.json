@@ -1,5 +1,33 @@
 [
   {
+    "objectID": "works/federated-kg-cadastral.html",
+    "href": "works/federated-kg-cadastral.html",
+    "title": "A Federated Knowledge Graph Architecture for Dutch Cadastral Data",
+    "section": "",
+    "text": "← Back to Works\n\nKadaster · University of Twente\n\n\nProposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets. The architecture leverages ontology-based data access (OBDA) principles and SPARQL federation to connect heterogeneous land registration systems in a privacy-respecting manner.\n\n\n\n\n\n\n\nUse your browser’s built-in controls to zoom, scroll, or download the PDF.\n\n\n\n\n&lt;p&gt;\nYour browser does not support embedded PDFs. &lt;a href=\"../papers/A%20Federated%20Knowledge%20Graph%20Architecture%20for%20Dutch%20Cadastral%20Data.pdf\"&gt;Download the PDF&lt;/a&gt; to view it.\n&lt;/p&gt;"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "Our lab consists of 2 PhD candidates and 2 Engineering Doctorate (EngD) students, all supervised jointly by researchers from Kadaster and the University of Twente."
+  },
+  {
+    "objectID": "team.html#researchers",
+    "href": "team.html#researchers",
+    "title": "Team",
+    "section": "Researchers",
+    "text": "Researchers\n\n\n\n\n\nLexi (Alexandra) Rowland ✉ \nPhD Candidate · University of Twente\nSecurity and privacy-aware virtual knowledge graphs — ontology-based policy enforcement and LLM integration.\n\n\n\n\n\n\n\nAnagha Phaniraj ✉ \nPhD Candidate · University of Twente\nImproving LLM pre-training and interpretability using knowledge graphs for land administration domain reasoning.\n\n\n\n\n\n\n\nCharlotte (Lei) Wang ✉ \nEngineering Doctorate · University of Twente\nKG-enhanced LLM chatbot for natural language access to land administration information.\n\n\n\n\n\n\n\nStefan Bussemaker ✉ \nEngineering Doctorate · University of Twente\nTransparent AI system design for automated information extraction from notarial deeds."
+  },
+  {
+    "objectID": "team.html#supervisors",
+    "href": "team.html#supervisors",
+    "title": "Team",
+    "section": "Supervisors",
+    "text": "Supervisors\nKadaster\n\nErwin Folmer ✉\nLector Applied Data Science & AI · HAN\nUniversity of Twente — Geo-Information Processing (GIP)\n\n\nMahdi Farnaghi ✉\nAssistant Professor\n\n\nFrank Ostermann ✉\nAssociate Professor\n\n\nRaul Zurita Milla ✉\nFull Professor\n\n\nRob Lemmens ✉\nAssistant Professor\nUniversity of Twente — Semantics, Cybersecurity & Services (SCS)\n\n\nTiago Prince Sales ✉\nAssistant Professor\n\n\nGiancarlo Guizzardi ✉\nFull Professor\n\n\nLuiz Bonino da Silva Santos ✉\nAssociate Professor\n\n\nThijs van Ede ✉\nAssistant Professor"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "UTKa DataLab",
@@ -14,62 +42,6 @@
     "text": "Research Themes\n\nAI with Authoritative Data — grounding LLMs and AI systems in authoritative knowledge graphs\nTrusted Federative Data Infrastructures — secure, privacy-respecting architectures for cross-system data sharing"
   },
   {
-    "objectID": "projects/llm-knowledge-graphs.html",
-    "href": "projects/llm-knowledge-graphs.html",
-    "title": "LLM Enhancement via Knowledge Graphs",
-    "section": "",
-    "text": "Grounding language models in the Kadaster Knowledge Graph to improve reasoning, reliability, and interpretability for land administration use cases."
-  },
-  {
-    "objectID": "projects/llm-knowledge-graphs.html#research-questions",
-    "href": "projects/llm-knowledge-graphs.html#research-questions",
-    "title": "LLM Enhancement via Knowledge Graphs",
-    "section": "Research Questions",
-    "text": "Research Questions\n…"
-  },
-  {
-    "objectID": "projects/llm-knowledge-graphs.html#methodology",
-    "href": "projects/llm-knowledge-graphs.html#methodology",
-    "title": "LLM Enhancement via Knowledge Graphs",
-    "section": "Methodology",
-    "text": "Methodology\n…"
-  },
-  {
-    "objectID": "projects/llm-knowledge-graphs.html#publications",
-    "href": "projects/llm-knowledge-graphs.html#publications",
-    "title": "LLM Enhancement via Knowledge Graphs",
-    "section": "Publications",
-    "text": "Publications\n…"
-  },
-  {
-    "objectID": "projects/vkg-legacy-systems.html",
-    "href": "projects/vkg-legacy-systems.html",
-    "title": "Virtual Knowledge Graphs for Legacy Systems",
-    "section": "",
-    "text": "Designing infrastructure for cross-system querying of heterogeneous data sources without physical data relocation, evaluated for performance and scalability at Kadaster."
-  },
-  {
-    "objectID": "projects/vkg-legacy-systems.html#problem-statement",
-    "href": "projects/vkg-legacy-systems.html#problem-statement",
-    "title": "Virtual Knowledge Graphs for Legacy Systems",
-    "section": "Problem Statement",
-    "text": "Problem Statement\n…"
-  },
-  {
-    "objectID": "projects/vkg-legacy-systems.html#design-implementation",
-    "href": "projects/vkg-legacy-systems.html#design-implementation",
-    "title": "Virtual Knowledge Graphs for Legacy Systems",
-    "section": "Design & Implementation",
-    "text": "Design & Implementation\n…"
-  },
-  {
-    "objectID": "projects/vkg-legacy-systems.html#results",
-    "href": "projects/vkg-legacy-systems.html#results",
-    "title": "Virtual Knowledge Graphs for Legacy Systems",
-    "section": "Results",
-    "text": "Results\n…"
-  },
-  {
     "objectID": "works.html",
     "href": "works.html",
     "title": "Works",
@@ -82,145 +54,5 @@
     "title": "Works",
     "section": "Publications",
     "text": "Publications\n\n\n\n\nConference paper Under Review\n\nA Federated Knowledge Graph Architecture for Dutch Cadastral Data\n\n\nEDOC 2026\n\nProposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets.\n\n\nView →\n\n\n\n\n\n\nConference paper Under Review\n\nWho Lives Where?\n\n\nEDOC Forum 2026\n\nInvestigates how authoritative residential registration data can be queried and reasoned over in a knowledge graph setting, with a focus on data quality and federated access.\n\n\nView →"
-  },
-  {
-    "objectID": "works/federated-kg-cadastral.html",
-    "href": "works/federated-kg-cadastral.html",
-    "title": "A Federated Knowledge Graph Architecture for Dutch Cadastral Data",
-    "section": "",
-    "text": "← Back to Works\n\nKadaster · University of Twente\n\n\nProposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets. The architecture leverages ontology-based data access (OBDA) principles and SPARQL federation to connect heterogeneous land registration systems in a privacy-respecting manner.\n\n\n\n\n\n\n\nUse your browser’s built-in controls to zoom, scroll, or download the PDF.\n\n\n\n\n&lt;p&gt;\nYour browser does not support embedded PDFs. &lt;a href=\"../papers/A%20Federated%20Knowledge%20Graph%20Architecture%20for%20Dutch%20Cadastral%20Data.pdf\"&gt;Download the PDF&lt;/a&gt; to view it.\n&lt;/p&gt;"
-  },
-  {
-    "objectID": "works/who-lives-where.html",
-    "href": "works/who-lives-where.html",
-    "title": "Who Lives Where?",
-    "section": "",
-    "text": "← Back to Works\n\nEDOC Forum 2026 · Kadaster · University of Twente\n\n\nInvestigates how authoritative residential registration data can be queried and reasoned over in a knowledge graph setting, with a focus on data quality and federated access. The paper explores challenges in representing uncertain or historical address linkages and presents an approach grounded in the Dutch basic registration infrastructure (BRP/BAG).\n\n\n\n\n\n\n\nUse your browser’s built-in controls to zoom, scroll, or download the PDF.\n\n\n\n\n&lt;p&gt;\nYour browser does not support embedded PDFs. &lt;a href=\"../papers/Who_Lives_Where___EDOC_Forum_2026.pdf\"&gt;Download the PDF&lt;/a&gt; to view it.\n&lt;/p&gt;"
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
-    "section": "",
-    "text": "Our lab consists of 2 PhD candidates and 3 Engineering Doctorate (EngD) students, all supervised jointly by researchers from Kadaster and the University of Twente."
-  },
-  {
-    "objectID": "team.html#researchers",
-    "href": "team.html#researchers",
-    "title": "Team",
-    "section": "Researchers",
-    "text": "Researchers\n\n\n\n\n\nLexi (Alexandra) Rowland ✉ \nPhD Candidate · University of Twente\nSecurity and privacy-aware virtual knowledge graphs — ontology-based policy enforcement and LLM integration.\nProject: Security & Privacy-Aware VKGs\n\n\n\n\n\n\n\nAnagha Phaniraj ✉ \nPhD Candidate · University of Twente\nImproving LLM pre-training and interpretability using knowledge graphs for land administration domain reasoning.\nProject: LLM Enhancement via Knowledge Graphs\n\n\n\n\n\n\n\nSven Mol ✉ \nEngineering Doctorate · University of Twente\nVKG infrastructure design, federated querying, and performance evaluation for legacy systems at Kadaster.\nProject: VKGs for Legacy Systems\n\n\n\n\n\n\n\nCharlotte (Lei) Wang ✉ \nEngineering Doctorate · University of Twente\nKG-enhanced LLM chatbot for natural language access to land administration information.\nProject: LLM & KG Chatbot\n\n\n\n\n\n\n\nStefan Bussemaker ✉ \nEngineering Doctorate · University of Twente\nTransparent AI system design for automated information extraction from notarial deeds.\nProject: AI Extraction from Notarial Deeds"
-  },
-  {
-    "objectID": "team.html#supervisors",
-    "href": "team.html#supervisors",
-    "title": "Team",
-    "section": "Supervisors",
-    "text": "Supervisors\nKadaster\n\nErwin Folmer ✉\nLector Applied Data Science & AI · HAN\nUniversity of Twente — Geo-Information Processing (GIP)\n\n\nMahdi Farnaghi ✉\nAssistant Professor\n\n\nFrank Ostermann ✉\nAssociate Professor\n\n\nRaul Zurita Milla ✉\nFull Professor\n\n\nRob Lemmens ✉\nAssistant Professor\nUniversity of Twente — Semantics, Cybersecurity & Services (SCS)\n\n\nTiago Prince Sales ✉\nAssistant Professor\n\n\nGiancarlo Guizzardi ✉\nFull Professor\n\n\nLuiz Bonino da Silva Santos ✉\nAssociate Professor\n\n\nThijs van Ede ✉\nAssistant Professor"
-  },
-  {
-    "objectID": "projects/ai-notarial-deeds.html",
-    "href": "projects/ai-notarial-deeds.html",
-    "title": "AI Information Extraction from Notarial Deeds",
-    "section": "",
-    "text": "Combining AI capabilities with Kadaster quality standards to extract structured information from legal documents with transparency and interpretability."
-  },
-  {
-    "objectID": "projects/ai-notarial-deeds.html#problem-statement",
-    "href": "projects/ai-notarial-deeds.html#problem-statement",
-    "title": "AI Information Extraction from Notarial Deeds",
-    "section": "Problem Statement",
-    "text": "Problem Statement\n…"
-  },
-  {
-    "objectID": "projects/ai-notarial-deeds.html#design-implementation",
-    "href": "projects/ai-notarial-deeds.html#design-implementation",
-    "title": "AI Information Extraction from Notarial Deeds",
-    "section": "Design & Implementation",
-    "text": "Design & Implementation\n…"
-  },
-  {
-    "objectID": "projects/ai-notarial-deeds.html#results",
-    "href": "projects/ai-notarial-deeds.html#results",
-    "title": "AI Information Extraction from Notarial Deeds",
-    "section": "Results",
-    "text": "Results\n…"
-  },
-  {
-    "objectID": "projects/llm-kg-chatbot.html",
-    "href": "projects/llm-kg-chatbot.html",
-    "title": "LLM and Knowledge Graph Chatbot",
-    "section": "",
-    "text": "Building a conversational interface that combines semantic knowledge graphs with LLM reasoning for intelligent retrieval of land administration data."
-  },
-  {
-    "objectID": "projects/llm-kg-chatbot.html#problem-statement",
-    "href": "projects/llm-kg-chatbot.html#problem-statement",
-    "title": "LLM and Knowledge Graph Chatbot",
-    "section": "Problem Statement",
-    "text": "Problem Statement\n…"
-  },
-  {
-    "objectID": "projects/llm-kg-chatbot.html#design-implementation",
-    "href": "projects/llm-kg-chatbot.html#design-implementation",
-    "title": "LLM and Knowledge Graph Chatbot",
-    "section": "Design & Implementation",
-    "text": "Design & Implementation\n…"
-  },
-  {
-    "objectID": "projects/llm-kg-chatbot.html#results",
-    "href": "projects/llm-kg-chatbot.html#results",
-    "title": "LLM and Knowledge Graph Chatbot",
-    "section": "Results",
-    "text": "Results\n…"
-  },
-  {
-    "objectID": "projects/security-privacy-vkg.html",
-    "href": "projects/security-privacy-vkg.html",
-    "title": "Security and Privacy-Aware Virtual Knowledge Graphs",
-    "section": "",
-    "text": "Modeling privacy policies within graph ontologies and enforcing them technically, including when integrating large language models."
-  },
-  {
-    "objectID": "projects/security-privacy-vkg.html#research-questions",
-    "href": "projects/security-privacy-vkg.html#research-questions",
-    "title": "Security and Privacy-Aware Virtual Knowledge Graphs",
-    "section": "Research Questions",
-    "text": "Research Questions\n…"
-  },
-  {
-    "objectID": "projects/security-privacy-vkg.html#methodology",
-    "href": "projects/security-privacy-vkg.html#methodology",
-    "title": "Security and Privacy-Aware Virtual Knowledge Graphs",
-    "section": "Methodology",
-    "text": "Methodology\n…"
-  },
-  {
-    "objectID": "projects/security-privacy-vkg.html#publications",
-    "href": "projects/security-privacy-vkg.html#publications",
-    "title": "Security and Privacy-Aware Virtual Knowledge Graphs",
-    "section": "Publications",
-    "text": "Publications\n…"
-  },
-  {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
-    "section": "",
-    "text": "UTKa DataLab’s research is organized around two themes, together spanning five active projects across PhD and EngD tracks."
-  },
-  {
-    "objectID": "research.html#ai-with-authoritative-data",
-    "href": "research.html#ai-with-authoritative-data",
-    "title": "Research",
-    "section": "AI with Authoritative Data",
-    "text": "AI with Authoritative Data\nWe investigate how Large Language Models and AI systems can be made more reliable and trustworthy when grounded in authoritative knowledge graphs. This addresses core challenges in government data applications, including hallucinations and limited explainability in AI-generated outputs. A key example of such a government knowledge graph is the Kadaster Knowledge Graph (Ronzhin et al. 2019).\n\nMotivation\n…\n\n\nApproach\n…\n\n\nLLM Enhancement via Knowledge Graphs\nPhD · Anagha Phaniraj\nGrounding language models in the Kadaster Knowledge Graph to improve reasoning, reliability, and interpretability for land administration use cases.\n\nResearch Questions\n…\n\n\nMethodology\n…\n\n\nPublications\n…\n\n\n\nLLM & KG Chatbot\nEngD · Lei Wang\nBuilding a conversational interface that combines semantic knowledge graphs with LLM reasoning for intelligent retrieval of land administration data.\n\nProblem Statement\n…\n\n\nDesign & Implementation\n…\n\n\nResults\n…\n\n\n\nAI Extraction from Notarial Deeds\nEngD · Stefan Bussemaker\nCombining AI capabilities with Kadaster quality standards to extract structured information from legal documents with transparency and interpretability.\n\nProblem Statement\n…\n\n\nDesign & Implementation\n…\n\n\nResults\n…"
-  },
-  {
-    "objectID": "research.html#trusted-federative-data-infrastructures",
-    "href": "research.html#trusted-federative-data-infrastructures",
-    "title": "Research",
-    "section": "Trusted Federative Data Infrastructures",
-    "text": "Trusted Federative Data Infrastructures\nWe design secure data-sharing architectures that respect privacy and data sovereignty. Our work centers on Virtual Knowledge Graph (VKG) infrastructures that enable efficient cross-system querying without requiring data replication or centralization.\n\nMotivation\n…\n\n\nApproach\n…\n\n\nSecurity & Privacy-Aware VKGs\nPhD · Lexi Rowland\nModeling privacy policies within graph ontologies and enforcing them technically, including when integrating large language models.\n\nResearch Questions\n…\n\n\nMethodology\n…\n\n\nPublications\n…\n\n\n\nVKGs for Legacy Systems\nEngD · Sven Mol\nDesigning infrastructure for cross-system querying of heterogeneous data sources without physical data relocation, evaluated for performance and scalability at Kadaster.\n\nProblem Statement\n…\n\n\nDesign & Implementation\n…\n\n\nResults\n…"
   }
 ]
