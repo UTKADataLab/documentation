@@ -8,7 +8,7 @@ Our lab consists of **2 PhD candidates** and **2 Engineering Doctorate (EngD) st
 
 #### Lexi (Alexandra) Rowland [✉](mailto:a.c.s.j.rowland@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0000-0002-2339-6357)
 
-**PhD Candidate** · University of Twente
+**PhD Candidate** · Kadaster
 
 Security and privacy-aware virtual knowledge graphs — ontology-based policy enforcement and LLM integration.
 
@@ -32,7 +32,7 @@ KG-enhanced LLM chatbot for natural language access to land administration infor
 
 #### Stefan Bussemaker [✉](mailto:s.bussemaker@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png)](https://orcid.org/0009-0006-3726-0748)
 
-**Engineering Doctorate** · University of Twente
+**Engineering Doctorate** · Kadaster
 
 Transparent AI system design for automated information extraction from notarial deeds.
 
