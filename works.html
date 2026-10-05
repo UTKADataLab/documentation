@@ -26,6 +26,41 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
@@ -45,7 +80,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-bb62276ab45c84d9efd712f51ff97b5a.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-6e3f01e363418215567817b901520f07.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-aeec68d3a8c8e685618e7843a53182be.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -151,27 +186,55 @@ ul.task-list li input[type="checkbox"] {
 <p>This page collects completed outputs from UTKa DataLab — conference papers, technical reports, and other deliverables produced by our researchers.</p>
 <section id="publications" class="level2">
 <h2 class="anchored" data-anchor-id="publications">Publications</h2>
-<div class="grid">
-<div class="g-col-12 g-col-md-6">
-<div class="work-card">
-<div class="work-card-body">
-<p><span class="badge-type">Conference paper</span></p>
-<div class="work-card-title">
-<p><a href="./works/federated-kg-cadastral.html">A Federated Knowledge Graph Architecture for Dutch Cadastral Data</a></p>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section">2026</h3>
+<div class="pub">
+<p><a href="https://doi.org/10.1007/978-3-032-40795-5_10" class="pub-title">What Secrets Are: Toward a Formal Ontology of Secrecy</a></p>
+<p><span class="pub-authors">Alexandra Rowland, Glenda Moura Amaral, Giancarlo Guizzardi, Tiago Prince Sales, Rob Lemmens</span></p>
+<p><span class="pub-venue">In: <em>Conceptual Modeling — ER 2026</em>, Lecture Notes in Computer Science, pp.&nbsp;165–181, Springer, 2026.</span></p>
+<div class="pub-links">
+<p><a href="https://doi.org/10.1007/978-3-032-40795-5_10" class="btn btn-outline-primary btn-sm">DOI</a> <a href="#abs-rowland2026secrets" class="btn btn-outline-primary btn-sm" data-bs-toggle="collapse" role="button" aria-expanded="false">Abstract</a> <a href="#bib-rowland2026secrets" class="btn btn-outline-primary btn-sm" data-bs-toggle="collapse" role="button" aria-expanded="false">BibTeX</a></p>
 </div>
-<div class="work-card-meta">
-<p>EDOC 2026</p>
+<div id="abs-rowland2026secrets" class="collapse pub-detail">
+<p>Access control, privacy engineering, and confidentiality frameworks are fundamentally concerned with managing who knows what and depend on the ability to reason about the active maintenance of ignorance, yet none provides a formal ontological account of the social-intentional phenomenon that underpins them. Without this, these systems can specify the normative surface of concealment without being able to reason about the beliefs, goals, and commitments that constitute and sustain it. This gap is addressed by taking a social-intentional approach and modelling secrecy not as an epistemic state but as an actively produced and maintained condition grounded in the intentional and social structure of the agents involved. This paper presents a formal ontology of secrecy grounded in the Unified Foundational Ontology (UFO) and specified in OntoUML, supporting interoperability with existing ontologies for trust, value, risk, and prevention. The secret is modelled as a social-intentional relator constituted by a Consequential Belief, or the agent’s goal-grounded assessment of the risk that revelation poses, and a commitment to maintaining nescience, situated within a trust structure derived from ONTrust and a risk and prevention structure grounded in COVER. The resulting ontology distinguishes Secret Owners, Holders, and Keepers; models weak and strong trust as grounding different levels of normative obligation; and characterises secret-keeping as a distributed preventive structure in which every Keeper contributes an antidote to the collective risk of revelation. The result is a reusable ontological module that fills a foundational gap in information systems design by providing the intentional structure that existing frameworks implicitly depend on but do not themselves supply.</p>
 </div>
-<p>Proposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets.</p>
+<div id="bib-rowland2026secrets" class="collapse pub-detail">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@inproceedings</span>{<span class="ot">rowland2026secrets</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>     = {What Secrets Are: Toward a Formal Ontology of Secrecy},</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>    = {Rowland, Alexandra and Amaral, Glenda Moura and Guizzardi, Giancarlo and Prince Sales, Tiago and Lemmens, Rob},</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">booktitle</span> = {Conceptual Modeling -- 45th International Conference, ER 2026},</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">series</span>    = {Lecture Notes in Computer Science},</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">pages</span>     = {165--181},</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a>  <span class="dt">publisher</span> = {Springer Nature Switzerland},</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>      = {2026},</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a>  <span class="dt">doi</span>       = {10.1007/978-3-032-40795-5_10}</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
-<div class="work-card-footer">
-<p><a href="./works/federated-kg-cadastral.html" class="btn btn-outline-primary btn-sm">View →</a></p>
 </div>
+<div class="pub">
+<p><a href="https://link.springer.com/book/9783032428998" class="pub-title">A Federated Knowledge Graph Architecture for Dutch Cadastral Data</a></p>
+<p><span class="pub-authors">Stefan Bussemaker, Alexandra Rowland, Lei Wang, Sven Mol, João Luiz Rebelo Moreira</span></p>
+<p><span class="pub-venue">In: <em>EDOC 2026</em>, Enschede, The Netherlands, 2026. Proceedings forthcoming.</span></p>
+<!-- TODO: replace the proceedings link with the chapter DOI and add pages to the BibTeX -->
+<div class="pub-links">
+<p><a href="https://link.springer.com/book/9783032428998" class="btn btn-outline-primary btn-sm">Proceedings</a> <a href="#abs-bussemaker2026federated" class="btn btn-outline-primary btn-sm" data-bs-toggle="collapse" role="button" aria-expanded="false">Abstract</a> <a href="#bib-bussemaker2026federated" class="btn btn-outline-primary btn-sm" data-bs-toggle="collapse" role="button" aria-expanded="false">BibTeX</a></p>
 </div>
+<div id="abs-bussemaker2026federated" class="collapse pub-detail">
+<p>Kadaster, the Dutch National Land Registry and Mapping Agency, has been actively publishing their base registries as linked (open) spatial data for several years. To date, a number of these base registers as well as a number of external datasets, have been successfully published as linked data and are publicly available in the form of the Kadaster Knowledge Graph (KKG). While the KKG provides a unified query interface across heterogeneous datasets, its centralised batch architecture produces stale data, imposes fragile pipeline maintenance, and requires copying third-party data into Kadaster’s infrastructure, creating duplication and governance overhead. This paper proposes a federated architecture in which Kadaster and its partner organisations each expose their data through a Model Context Protocol (MCP) server, and a centralised AI assistant orchestrates queries across these endpoints at runtime using tool calling. The proposed architecture eliminates the extract, transform, load (ETL) pipeline and triple store, keeps data current at its authoritative source, and enables natural language querying over the combined data landscape. We designed the architecture using ArchiMate and validated it through a proof-of-concept implementation. We discuss the limitations of this approach and discuss possible remedies.</p>
+</div>
+<div id="bib-bussemaker2026federated" class="collapse pub-detail">
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="va">@inproceedings</span>{<span class="ot">bussemaker2026federated</span>,</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span>     = {A Federated Knowledge Graph Architecture for Dutch Cadastral Data},</span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span>    = {Bussemaker, Stefan and Rowland, Alexandra and Wang, Lei and Mol, Sven and Rebelo Moreira, Jo{<span class="ch">\~</span>a}o Luiz},</span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">booktitle</span> = {EDOC 2026},</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span>      = {2026},</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a>  <span class="dt">note</span>      = {Accepted, to appear}</span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 </div>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

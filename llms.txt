@@ -2,8 +2,7 @@
 
 ## Pages
 
-- [A Federated Knowledge Graph Architecture for Dutch Cadastral Data](https://UTKADataLab.github.io/documentation/works/federated-kg-cadastral.llms.md)
-- [Team](https://UTKADataLab.github.io/documentation/team.llms.md)
-- [UTKa DataLab](https://UTKADataLab.github.io/documentation/index.llms.md)
-- [Partners](https://UTKADataLab.github.io/documentation/partners.llms.md)
 - [Works](https://UTKADataLab.github.io/documentation/works.llms.md)
+- [Partners](https://UTKADataLab.github.io/documentation/partners.llms.md)
+- [UTKa DataLab](https://UTKADataLab.github.io/documentation/index.llms.md)
+- [Team](https://UTKADataLab.github.io/documentation/team.llms.md)

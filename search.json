@@ -1,10 +1,31 @@
 [
   {
-    "objectID": "works/federated-kg-cadastral.html",
-    "href": "works/federated-kg-cadastral.html",
-    "title": "A Federated Knowledge Graph Architecture for Dutch Cadastral Data",
+    "objectID": "works.html",
+    "href": "works.html",
+    "title": "Works",
     "section": "",
-    "text": "← Back to Works\n\nEDOC 2026 · Kadaster · University of Twente\n\n\nProposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets. The architecture leverages ontology-based data access (OBDA) principles and SPARQL federation to connect heterogeneous land registration systems in a privacy-respecting manner.\n\nAccepted at EDOC 2026."
+    "text": "This page collects completed outputs from UTKa DataLab — conference papers, technical reports, and other deliverables produced by our researchers."
+  },
+  {
+    "objectID": "works.html#publications",
+    "href": "works.html#publications",
+    "title": "Works",
+    "section": "Publications",
+    "text": "Publications\n\n2026\n\nWhat Secrets Are: Toward a Formal Ontology of Secrecy\nAlexandra Rowland, Glenda Moura Amaral, Giancarlo Guizzardi, Tiago Prince Sales, Rob Lemmens\nIn: Conceptual Modeling — ER 2026, Lecture Notes in Computer Science, pp. 165–181, Springer, 2026.\n\nDOI Abstract BibTeX\n\n\nAccess control, privacy engineering, and confidentiality frameworks are fundamentally concerned with managing who knows what and depend on the ability to reason about the active maintenance of ignorance, yet none provides a formal ontological account of the social-intentional phenomenon that underpins them. Without this, these systems can specify the normative surface of concealment without being able to reason about the beliefs, goals, and commitments that constitute and sustain it. This gap is addressed by taking a social-intentional approach and modelling secrecy not as an epistemic state but as an actively produced and maintained condition grounded in the intentional and social structure of the agents involved. This paper presents a formal ontology of secrecy grounded in the Unified Foundational Ontology (UFO) and specified in OntoUML, supporting interoperability with existing ontologies for trust, value, risk, and prevention. The secret is modelled as a social-intentional relator constituted by a Consequential Belief, or the agent’s goal-grounded assessment of the risk that revelation poses, and a commitment to maintaining nescience, situated within a trust structure derived from ONTrust and a risk and prevention structure grounded in COVER. The resulting ontology distinguishes Secret Owners, Holders, and Keepers; models weak and strong trust as grounding different levels of normative obligation; and characterises secret-keeping as a distributed preventive structure in which every Keeper contributes an antidote to the collective risk of revelation. The result is a reusable ontological module that fills a foundational gap in information systems design by providing the intentional structure that existing frameworks implicitly depend on but do not themselves supply.\n\n\n@inproceedings{rowland2026secrets,\n  title     = {What Secrets Are: Toward a Formal Ontology of Secrecy},\n  author    = {Rowland, Alexandra and Amaral, Glenda Moura and Guizzardi, Giancarlo and Prince Sales, Tiago and Lemmens, Rob},\n  booktitle = {Conceptual Modeling -- 45th International Conference, ER 2026},\n  series    = {Lecture Notes in Computer Science},\n  pages     = {165--181},\n  publisher = {Springer Nature Switzerland},\n  year      = {2026},\n  doi       = {10.1007/978-3-032-40795-5_10}\n}\n\n\n\nA Federated Knowledge Graph Architecture for Dutch Cadastral Data\nStefan Bussemaker, Alexandra Rowland, Lei Wang, Sven Mol, João Luiz Rebelo Moreira\nIn: EDOC 2026, Enschede, The Netherlands, 2026. Proceedings forthcoming.\n\n\nProceedings Abstract BibTeX\n\n\nKadaster, the Dutch National Land Registry and Mapping Agency, has been actively publishing their base registries as linked (open) spatial data for several years. To date, a number of these base registers as well as a number of external datasets, have been successfully published as linked data and are publicly available in the form of the Kadaster Knowledge Graph (KKG). While the KKG provides a unified query interface across heterogeneous datasets, its centralised batch architecture produces stale data, imposes fragile pipeline maintenance, and requires copying third-party data into Kadaster’s infrastructure, creating duplication and governance overhead. This paper proposes a federated architecture in which Kadaster and its partner organisations each expose their data through a Model Context Protocol (MCP) server, and a centralised AI assistant orchestrates queries across these endpoints at runtime using tool calling. The proposed architecture eliminates the extract, transform, load (ETL) pipeline and triple store, keeps data current at its authoritative source, and enables natural language querying over the combined data landscape. We designed the architecture using ArchiMate and validated it through a proof-of-concept implementation. We discuss the limitations of this approach and discuss possible remedies.\n\n\n@inproceedings{bussemaker2026federated,\n  title     = {A Federated Knowledge Graph Architecture for Dutch Cadastral Data},\n  author    = {Bussemaker, Stefan and Rowland, Alexandra and Wang, Lei and Mol, Sven and Rebelo Moreira, Jo{\\~a}o Luiz},\n  booktitle = {EDOC 2026},\n  year      = {2026},\n  note      = {Accepted, to appear}\n}"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "UTKa DataLab",
+    "section": "",
+    "text": "UTKa DataLab is a joint research initiative between Kadaster and the University of Twente, based in Apeldoorn. We develop methods to extract, combine, and analyze information from distributed data sources, with a strong commitment to ethical conduct, scientific integrity, and open science."
+  },
+  {
+    "objectID": "index.html#research-themes",
+    "href": "index.html#research-themes",
+    "title": "UTKa DataLab",
+    "section": "Research Themes",
+    "text": "Research Themes\n\nAI with Authoritative Data — grounding LLMs and AI systems in authoritative knowledge graphs\nTrusted Federative Data Infrastructures — secure, privacy-respecting architectures for cross-system data sharing"
   },
   {
     "objectID": "team.html",
@@ -26,33 +47,5 @@
     "title": "Team",
     "section": "Supervisors",
     "text": "Supervisors\nKadaster\n\nErwin Folmer ✉\nLector Applied Data Science & AI · HAN\nUniversity of Twente — Geo-Information Processing (GIP)\n\n\nMahdi Farnaghi ✉\nAssistant Professor\n\n\nFrank Ostermann ✉\nAssociate Professor\n\n\nRaul Zurita Milla ✉\nFull Professor\n\n\nRob Lemmens ✉\nAssistant Professor\nUniversity of Twente — Semantics, Cybersecurity & Services (SCS)\n\n\nTiago Prince Sales ✉\nAssistant Professor\n\n\nGiancarlo Guizzardi ✉\nFull Professor\n\n\nLuiz Bonino da Silva Santos ✉\nAssociate Professor\n\n\nThijs van Ede ✉\nAssistant Professor"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "UTKa DataLab",
-    "section": "",
-    "text": "UTKa DataLab is a joint research initiative between Kadaster and the University of Twente, based in Apeldoorn. We develop methods to extract, combine, and analyze information from distributed data sources, with a strong commitment to ethical conduct, scientific integrity, and open science."
-  },
-  {
-    "objectID": "index.html#research-themes",
-    "href": "index.html#research-themes",
-    "title": "UTKa DataLab",
-    "section": "Research Themes",
-    "text": "Research Themes\n\nAI with Authoritative Data — grounding LLMs and AI systems in authoritative knowledge graphs\nTrusted Federative Data Infrastructures — secure, privacy-respecting architectures for cross-system data sharing"
-  },
-  {
-    "objectID": "works.html",
-    "href": "works.html",
-    "title": "Works",
-    "section": "",
-    "text": "This page collects completed outputs from UTKa DataLab — conference papers, technical reports, and other deliverables produced by our researchers."
-  },
-  {
-    "objectID": "works.html#publications",
-    "href": "works.html#publications",
-    "title": "Works",
-    "section": "Publications",
-    "text": "Publications\n\n\n\n\nConference paper\n\nA Federated Knowledge Graph Architecture for Dutch Cadastral Data\n\n\nEDOC 2026\n\nProposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets.\n\n\nView →"
   }
 ]
