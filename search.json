@@ -4,7 +4,7 @@
     "href": "works/federated-kg-cadastral.html",
     "title": "A Federated Knowledge Graph Architecture for Dutch Cadastral Data",
     "section": "",
-    "text": "← Back to Works\n\nKadaster · University of Twente\n\n\nProposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets. The architecture leverages ontology-based data access (OBDA) principles and SPARQL federation to connect heterogeneous land registration systems in a privacy-respecting manner.\n\n\n\n\n\n\n\nUse your browser’s built-in controls to zoom, scroll, or download the PDF.\n\n\n\n\n&lt;p&gt;\nYour browser does not support embedded PDFs. &lt;a href=\"../papers/A%20Federated%20Knowledge%20Graph%20Architecture%20for%20Dutch%20Cadastral%20Data.pdf\"&gt;Download the PDF&lt;/a&gt; to view it.\n&lt;/p&gt;"
+    "text": "← Back to Works\n\nEDOC 2026 · Kadaster · University of Twente\n\n\nProposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets. The architecture leverages ontology-based data access (OBDA) principles and SPARQL federation to connect heterogeneous land registration systems in a privacy-respecting manner.\n\nAccepted at EDOC 2026."
   },
   {
     "objectID": "team.html",
@@ -53,6 +53,6 @@
     "href": "works.html#publications",
     "title": "Works",
     "section": "Publications",
-    "text": "Publications\n\n\n\n\nConference paper Under Review\n\nA Federated Knowledge Graph Architecture for Dutch Cadastral Data\n\n\nEDOC 2026\n\nProposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets.\n\n\nView →\n\n\n\n\n\n\nConference paper Under Review\n\nWho Lives Where?\n\n\nEDOC Forum 2026\n\nInvestigates how authoritative residential registration data can be queried and reasoned over in a knowledge graph setting, with a focus on data quality and federated access.\n\n\nView →"
+    "text": "Publications\n\n\n\n\nConference paper\n\nA Federated Knowledge Graph Architecture for Dutch Cadastral Data\n\n\nEDOC 2026\n\nProposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets.\n\n\nView →"
   }
 ]

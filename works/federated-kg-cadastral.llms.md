@@ -4,7 +4,7 @@ Conference Paper
 
 [← Back to Works](../works.llms.md)
 
-Kadaster · University of Twente
+EDOC 2026 · Kadaster · University of Twente
 
 ------------------------------------------------------------------------
 
@@ -12,8 +12,4 @@ Proposes a federated virtual knowledge graph architecture that enables interoper
 
 ------------------------------------------------------------------------
 
-> **NOTE:**
->
-> Use your browser’s built-in controls to zoom, scroll, or download the PDF.
-
-Your browser does not support embedded PDFs. [Download the PDF](../papers/A%20Federated%20Knowledge%20Graph%20Architecture%20for%20Dutch%20Cadastral%20Data.pdf) to view it.
+Accepted at [EDOC 2026](https://conf.researchr.org/details/edoc-2026/edoc-2026-papers/17/A-Federated-Knowledge-Graph-Architecture-for-Dutch-Cadastral-Data).

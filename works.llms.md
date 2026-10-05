@@ -6,7 +6,7 @@ This page collects completed outputs from UTKa DataLab — conference papers, te
 
 ## Publications
 
-Conference paper Under Review
+Conference paper
 
 [A Federated Knowledge Graph Architecture for Dutch Cadastral Data](works/federated-kg-cadastral.llms.md)
 
@@ -15,13 +15,3 @@ EDOC 2026
 Proposes a federated virtual knowledge graph architecture that enables interoperable querying over Dutch cadastral data sources without centralizing the underlying datasets.
 
 [View →](works/federated-kg-cadastral.llms.md)
-
-Conference paper Under Review
-
-[Who Lives Where?](works/who-lives-where.qmd)
-
-EDOC Forum 2026
-
-Investigates how authoritative residential registration data can be queried and reasoned over in a knowledge graph setting, with a focus on data quality and federated access.
-
-[View →](works/who-lives-where.qmd)
