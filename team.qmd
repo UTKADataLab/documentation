@@ -2,7 +2,7 @@
 title: "Team"
 ---
 
-Our lab consists of **2 PhD candidates** and **3 Engineering Doctorate (EngD) students**, all supervised jointly by researchers from Kadaster and the University of Twente.
+Our lab consists of **2 PhD candidates** and **2 Engineering Doctorate (EngD) students**, all supervised jointly by researchers from Kadaster and the University of Twente.
 
 ## Researchers
 
@@ -15,8 +15,6 @@ Our lab consists of **2 PhD candidates** and **3 Engineering Doctorate (EngD) st
 **PhD Candidate** · University of Twente
 
 Security and privacy-aware virtual knowledge graphs — ontology-based policy enforcement and LLM integration.
-
-[Project: Security & Privacy-Aware VKGs](research.qmd#security-privacy-vkg)
 :::
 ::::
 
@@ -29,22 +27,6 @@ Security and privacy-aware virtual knowledge graphs — ontology-based policy en
 **PhD Candidate** · University of Twente
 
 Improving LLM pre-training and interpretability using knowledge graphs for land administration domain reasoning.
-
-[Project: LLM Enhancement via Knowledge Graphs](research.qmd#llm-knowledge-graphs)
-:::
-::::
-
-:::: {.researcher-card}
-::: {.researcher-photo}
-![](assets/profile_photos/sven.jpg)
-:::
-::: {.researcher-info}
-#### Sven Mol [✉](mailto:s.mol@utwente.nl) [![ORCID](https://info.orcid.org/wp-content/uploads/2019/11/orcid_16x16.png){height=16}](https://orcid.org/0009-0000-7557-8067)
-**Engineering Doctorate** · University of Twente
-
-VKG infrastructure design, federated querying, and performance evaluation for legacy systems at Kadaster.
-
-[Project: VKGs for Legacy Systems](research.qmd#vkg-legacy-systems)
 :::
 ::::
 
@@ -57,8 +39,6 @@ VKG infrastructure design, federated querying, and performance evaluation for le
 **Engineering Doctorate** · University of Twente
 
 KG-enhanced LLM chatbot for natural language access to land administration information.
-
-[Project: LLM & KG Chatbot](research.qmd#llm-kg-chatbot)
 :::
 ::::
 
@@ -71,8 +51,6 @@ KG-enhanced LLM chatbot for natural language access to land administration infor
 **Engineering Doctorate** · University of Twente
 
 Transparent AI system design for automated information extraction from notarial deeds.
-
-[Project: AI Extraction from Notarial Deeds](research.qmd#ai-notarial-deeds)
 :::
 ::::
 

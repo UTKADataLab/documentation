@@ -1,6 +1,10 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "!research.qmd"
+    - "!projects/"
   resources:
     - papers/
     - assets/
@@ -10,8 +14,6 @@ website:
   llms-txt: true
   navbar:
     left:
-      - href: research.qmd
-        text: Research
       - href: works.qmd
         text: Works
       - href: team.qmd
